@@ -1,70 +1,92 @@
-# Introduction
+# Literature Review  
 
-## 1. Introduction of the Topic
+## 1. Summary of Existing Technologies, Methods, and Solutions  
 
-The rapid growth of digital banking and financial services has led to a massive increase in online transactions. While this digitalization offers convenience and speed, it also makes financial systems more vulnerable to fraudulent activities such as unauthorized access, identity theft, and abnormal transaction behavior.  
+### 1.1 Rule-Based Fraud Detection Systems  
+Early fraud detection systems relied on **rule-based approaches**, where predefined thresholds (e.g., transaction amount limits, blacklisted IP addresses, unusual geolocation) were used to flag anomalies.  
 
-Traditional fraud detection systems largely depend on static, rule-based mechanisms (e.g., transaction limits, blacklisted accounts), which often fail to adapt to emerging fraud tactics. These rigid methods result in:  
-- **False Positives**: Genuine transactions flagged as fraud.  
-- **False Negatives**: Actual fraud going undetected.  
+**Advantages:**  
+- Simple to implement.  
+- Transparent decision-making process.  
 
-This project, **Intelligent Fraud Detection in Financial Transactions using Machine Learning**, introduces a dynamic, behavior-aware fraud detection system that leverages:  
-- **Supervised Learning** – For identifying known fraud patterns.  
-- **Unsupervised Learning** – For detecting unusual behaviors.  
-
-By analyzing spending patterns, geolocation, transaction frequency, and categories, the system provides a more accurate and scalable fraud detection solution.  
-
----
-
-## 2. Background  
-
-Financial institutions handle millions of transactions daily, making manual fraud monitoring impossible. Fraud detection is traditionally handled using **rule-based systems**, which monitor predefined thresholds such as:  
-- Transaction limits  
-- Unusual IP addresses  
-- Location mismatches  
-
-However, such methods face several **limitations**:  
-- Inability to adapt to evolving fraud techniques.  
-- High false alarms, reducing customer trust.  
-- Limited understanding of user-specific behavior.  
-
-### To overcome these challenges, this project implements **Machine Learning-based Fraud Detection** that:  
-- Learns from historical transaction data to detect known fraud patterns.  
-- Identifies anomalies in user behavior using algorithms like **Isolation Forest** and **One-Class SVM**.  
-- Combines **supervised and unsupervised learning** for robust detection.  
-- Provides **real-time anomaly scoring and alerts** for proactive fraud prevention.  
-
-This intelligent approach ensures that fraud detection evolves dynamically with changing user behavior and fraud strategies.  
+**Limitations:**  
+- Inflexible and unable to adapt to evolving fraud tactics.  
+- High false-positive rates (genuine transactions often flagged as fraud).  
+- Cannot model complex user behavior.  
 
 ---
 
-## 3. Problem Statement  
+### 1.2 Statistical and Data Mining Approaches  
+With the rise of data-driven methods, probabilistic models and statistical techniques such as **Logistic Regression** and **Bayesian Networks** were applied to fraud detection.  
 
-### Challenges in Fraud Detection:
-- **Large Transaction Volumes** – Millions of financial transactions occur daily, making manual analysis unfeasible.  
-- **Dynamic Fraud Techniques** – Fraudsters continuously change strategies to bypass static rule-based systems.  
-- **High False Positives** – Genuine transactions are often flagged incorrectly, reducing customer trust.  
-- **User Behavior Diversity** – Spending patterns vary from person to person, requiring personalized detection mechanisms.  
-- **Real-Time Requirement** – Banks and users need instant fraud alerts to prevent financial losses.  
+**Advantages:**  
+- Provide interpretability and probabilistic insights.  
+- Capture correlations between transaction features.  
 
-### How This Project Solves These Issues:
-- Automates fraud detection using **Machine Learning algorithms**.  
-- Builds **user-specific dynamic profiles** for personalized detection.  
-- Uses **supervised learning (Random Forest, XGBoost)** for known fraud patterns.  
-- Applies **unsupervised anomaly detection (Isolation Forest, One-Class SVM)** for unknown frauds.  
-- Provides **real-time fraud alerts and proactive notifications** for unusual transactions.  
-- Enhances customer trust by reducing false positives and providing spending insights.  
+**Limitations:**  
+- Limited in handling large-scale, high-dimensional data.  
+- Require strong assumptions about feature distributions.  
 
 ---
 
-## 4. Objectives  
+### 1.3 Machine Learning for Fraud Detection  
+The introduction of **supervised learning models** significantly improved fraud detection performance.  
 
-This project aims to:  
-- Collect and preprocess transaction data for fraud detection.  
-- Engineer features such as **time, location, amount, category, and frequency** of transactions.  
-- Train supervised models (**Random Forest, XGBoost**) for classification of known fraud cases.  
-- Implement unsupervised models (**Isolation Forest, One-Class SVM**) for anomaly detection.  
-- Build **user-specific spending profiles** to detect deviations from normal behavior.  
-- Develop a **real-time fraud alert system** for proactive prevention.  
-- Extend the framework to provide **personalized financial insights** (spending analysis, budgeting recommendations).  
-- Deploy the solution as a **web-based/mobile application** for end-user interaction and alerts.  
+**Commonly used algorithms include:**  
+- **Decision Trees & Random Forests** – Handle non-linear relationships and imbalanced data.  
+- **Gradient Boosting & XGBoost** – Deliver high predictive accuracy with ensemble methods.  
+- **Neural Networks** – Capture complex transaction patterns.  
+
+**Challenges:**  
+- Fraud datasets are highly imbalanced (fraudulent cases are rare).  
+- Risk of overfitting on historical fraud patterns.  
+
+**Solutions in Literature:**  
+- **SMOTE (Synthetic Minority Oversampling Technique)** to balance datasets.  
+- **Cost-sensitive learning** to penalize misclassification of fraud cases.  
+
+---
+
+### 1.4 Unsupervised and Anomaly Detection Methods  
+To detect new or evolving fraud patterns, researchers have applied **unsupervised learning** and **anomaly detection techniques**:  
+- **K-Means, DBSCAN** – Cluster transactions and detect outliers.  
+- **Isolation Forest** – Identifies anomalies by isolating rare behaviors.  
+- **One-Class SVM** – Learns a boundary around normal transactions to detect deviations.  
+
+**Advantages:**  
+- No need for labeled fraud data.  
+- Useful for detecting novel fraud strategies.  
+
+**Limitations:**  
+- Higher false alarm rates if features are not well-defined.  
+- Sensitive to parameter selection.  
+
+---
+
+### 1.5 Hybrid Fraud Detection Models  
+Recent studies emphasize **hybrid approaches**, combining supervised and unsupervised learning:  
+- **Supervised Models** – Effective for detecting known fraud types.  
+- **Anomaly Detection Models** – Capture new or evolving fraud tactics.  
+- **Behavioral Features** – Incorporating temporal, spatial, and user-specific spending patterns enhances accuracy.  
+
+**Research Trend:**  
+- Focus on **real-time fraud detection systems** capable of handling high transaction volumes.  
+- Integration with **big data platforms and cloud services** for scalability.  
+
+---
+
+## 2. Why Machine Learning for This Project?  
+
+Based on the literature review, this project adopts a **Machine Learning-driven hybrid approach** for fraud detection because:  
+
+- **Adaptability** – ML models learn evolving fraud tactics better than static rules.  
+- **Higher Accuracy** – Supervised classifiers (**Random Forest, XGBoost**) reduce false negatives.  
+- **Novel Fraud Detection** – Anomaly detection (**Isolation Forest, One-Class SVM**) identifies previously unseen fraud patterns.  
+- **Behavior Awareness** – Dynamic user-specific profiles reduce false positives by considering spending habits, geolocation, and transaction frequency.  
+- **Real-Time Application** – Integration with streaming systems enables instant fraud alerts.  
+
+**Key Model Choices for This Project:**  
+- **Supervised Models**: Random Forest, XGBoost for classification of labeled fraud data.  
+- **Unsupervised Models**: Isolation Forest, One-Class SVM for anomaly detection.  
+- **Feature Engineering**: Temporal (time of transaction), spatial (geolocation), behavioral (spending patterns).  
+- **Deployment**: Scalable real-time system with alert mechanisms and personalized financial insights.  
