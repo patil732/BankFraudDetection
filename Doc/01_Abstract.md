@@ -1,4 +1,4 @@
-# **Semester Project - II: Intelligent Fraud Detection in Financial Transactions using Machine Learning**
+# **Semester Project - III: Intelligent Fraud Detection in Financial Transactions using Machine Learning**
 
 **Domain:** Machine Learning & Financial Security  
 
@@ -16,15 +16,9 @@
 ---
 
 ## **Abstract**
-The **Intelligent Fraud Detection in Financial Transactions** project aims to build an **adaptive, behavior-aware fraud detection framework** that reduces false positives and strengthens trust in digital banking.  
+The **Intelligent Fraud Detection in Financial Transactions** project aims to build an **adaptive, behavior-aware fraud detection framework** that reduces false positives and strengthens trust in digital banking. Unlike traditional rule-based systems, this model combines **supervised learning** for detecting known fraud types with **unsupervised anomaly detection** to identify unusual patterns in user-specific transactions. The system dynamically constructs a **spending profile for each user**, considering **temporal, spatial, and behavioral features** such as spending categories, transaction frequency, and geolocation.  
 
-Unlike traditional rule-based systems, this model combines **supervised learning** for detecting known fraud types with **unsupervised anomaly detection** to identify unusual patterns in user-specific transactions. The system dynamically constructs a **spending profile for each user**, considering **temporal, spatial, and behavioral features** such as spending categories, transaction frequency, and geolocation.  
-
-For detection, algorithms like **Random Forest** and **XGBoost** classify suspicious activities, while **Isolation Forest** and **One-Class SVM** provide **real-time anomaly scoring**. A **proactive alert mechanism** allows users to instantly validate suspicious transactions, thereby reducing false declines and ensuring transparency.  
-
-Beyond fraud detection, the system also offers **personalized financial insights**, including **spending analysis, budgeting recommendations, and unusual activity alerts**, enhancing customer engagement.  
-
-This dual-purpose solution evolves with **user behavior** and **emerging fraud tactics**, positioning itself as a **next-generation fraud detection system** in financial services.  
+For detection, algorithms like **Random Forest** and **XGBoost** classify suspicious activities, while **Isolation Forest** and **One-Class SVM** provide **real-time anomaly scoring**. A **proactive alert mechanism** allows users to instantly validate suspicious transactions, thereby reducing false declines and ensuring transparency. Beyond fraud detection, the system also offers **personalized financial insights**, including **spending analysis, budgeting recommendations, and unusual activity alerts**, enhancing customer engagement. This dual-purpose solution evolves with **user behavior** and **emerging fraud tactics**, positioning itself as a **next-generation fraud detection system** in financial services.  
 
 ---
 
