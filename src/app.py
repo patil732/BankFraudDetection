@@ -60,7 +60,7 @@ def health():
 @app.route('/api/balance')
 def get_balance():
     return jsonify({
-        "name": "John Doe",
+        "name": "Chaitanya Sonawane",
         "account": "•••• 4832", 
         "balance": 10000.00,
         "currency": "$"
