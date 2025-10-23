@@ -8,6 +8,8 @@ import pickle
 import warnings
 warnings.filterwarnings('ignore')
 
+# model fnHandler
+
 class FraudDetectionModel:
     def __init__(self):
         self.model = None
