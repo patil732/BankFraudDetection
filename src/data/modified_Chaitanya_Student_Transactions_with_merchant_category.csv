@@ -1,0 +1,1001 @@
+user_id,transaction_id,date Transaction,time Transaction,amount Transaction,Merchant,merchant_category,location Transaction,payment_channel,device_used,Fraud label 
+STU003,TXN10000,15-06-2025,11:12:30,97.31,Myntra,Fashion & Apparel,Chennai,Debit Card,Mobile,0
+STU003,TXN10001,12-11-2024,15:57:49,289.64,Ola,Transport Services,Nagpur,UPI,Desktop,0
+STU003,TXN10002,21-12-2024,19:17:37,1720.18,Paytm,Digital Payments,Nashik,UPI,Mobile,0
+STU003,TXN10003,23-03-2025,17:33:56,2530.85,BookMyShow,Entertainment,Delhi,Net Banking,Mobile,0
+STU003,TXN10004,18-10-2024,11:45:30,2145.48,Paytm,Digital Payments,Indore,Debit Card,Mobile,0
+STU003,TXN10005,13-10-2024,14:22:13,503.27,Zomato,Food Delivery,Nagpur,Credit Card,Mobile,0
+STU003,TXN10006,03-11-2024,22:49:57,1001.83,Ola,Transport Services,Nashik,UPI,Mobile,0
+STU003,TXN10007,15-12-2024,22:00:38,1575.05,Swiggy,Food Delivery,Chennai,Credit Card,Mobile,0
+STU003,TXN10008,27-12-2024,19:40:26,162.19,Myntra,Fashion & Apparel,Nagpur,UPI,Mobile,0
+STU003,TXN10009,02-01-2025,22:36:32,1884.91,Myntra,Fashion & Apparel,Pune,Net Banking,Mobile,0
+STU003,TXN10010,21-05-2025,00:38:09,1632.42,Uber,General Retail,Hyderabad,UPI,Desktop,0
+STU003,TXN10011,04-03-2025,03:48:30,2942.84,Amazon,E-commerce,Mumbai,Net Banking,Mobile,0
+STU003,TXN10012,01-05-2025,21:18:33,1561.68,BigBasket,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10013,07-12-2024,16:25:41,1818.65,Myntra,Fashion & Apparel,Indore,UPI,Mobile,1
+STU003,TXN10014,12-11-2024,10:30:44,836.62,BigBasket,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10015,08-11-2024,00:15:13,962.9,Zomato,Food Delivery,Mumbai,UPI,Mobile,0
+STU003,TXN10016,07-03-2025,01:11:43,982.81,Swiggy,Food Delivery,Delhi,UPI,Mobile,1
+STU003,TXN10017,11-05-2025,03:25:44,893.41,Dominos,General Retail,Chennai,Net Banking,Mobile,0
+STU003,TXN10018,05-05-2025,23:09:51,579.81,Amazon,E-commerce,Nagpur,Debit Card,Mobile,0
+STU003,TXN10019,07-05-2025,13:35:54,1833.12,Swiggy,Food Delivery,Mumbai,Debit Card,Desktop,0
+STU003,TXN10020,16-12-2024,02:14:33,537.59,Dominos,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10021,26-01-2025,07:40:48,1295.51,Ola,Transport Services,Nashik,UPI,Mobile,0
+STU003,TXN10022,17-10-2024,14:16:07,830.8,Amazon,E-commerce,Chennai,Debit Card,Desktop,0
+STU003,TXN10023,23-07-2025,13:34:57,1085.65,Dominos,General Retail,Mumbai,Debit Card,Mobile,0
+STU003,TXN10024,30-04-2025,19:22:46,2354.25,Dominos,General Retail,Chennai,Net Banking,Mobile,0
+STU003,TXN10025,17-03-2025,01:32:46,720.05,Flipkart,E-commerce,Ahmedabad,UPI,Mobile,0
+STU003,TXN10026,26-06-2025,14:32:26,372.43,Amazon,E-commerce,Pune,UPI,Desktop,0
+STU003,TXN10027,19-03-2025,06:48:27,2740.14,Zomato,Food Delivery,Nashik,Credit Card,Mobile,0
+STU003,TXN10028,09-09-2025,05:57:30,663.22,Zomato,Food Delivery,Chennai,UPI,Mobile,0
+STU003,TXN10029,10-04-2025,16:40:05,308.57,BigBasket,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10030,23-12-2024,08:30:36,1757.04,Swiggy,Food Delivery,Nashik,Credit Card,Mobile,0
+STU003,TXN10031,08-12-2024,03:08:10,1099.22,Amazon,E-commerce,Pune,Debit Card,Mobile,0
+STU003,TXN10032,19-09-2025,19:40:51,1217.9,Zomato,Food Delivery,Mumbai,UPI,Mobile,0
+STU003,TXN10033,17-07-2025,03:08:09,2450.92,Paytm,Digital Payments,Mumbai,Net Banking,Mobile,0
+STU003,TXN10034,12-03-2025,02:19:39,1832.42,Dominos,General Retail,Bangalore,UPI,Desktop,0
+STU003,TXN10035,17-12-2024,10:02:17,994.02,Swiggy,Food Delivery,Hyderabad,UPI,Mobile,0
+STU003,TXN10036,09-12-2024,19:58:35,1412.44,Swiggy,Food Delivery,Nashik,UPI,Mobile,0
+STU003,TXN10037,27-09-2025,02:28:22,919.01,Ola,Transport Services,Pune,UPI,Mobile,0
+STU003,TXN10038,28-05-2025,03:56:51,582.27,Paytm,Digital Payments,Chennai,UPI,Mobile,0
+STU003,TXN10039,14-06-2025,01:51:59,674.51,Myntra,Fashion & Apparel,Delhi,Net Banking,Desktop,0
+STU003,TXN10040,10-01-2025,01:42:04,1326.96,Swiggy,Food Delivery,Pune,Debit Card,Desktop,0
+STU003,TXN10041,28-12-2024,01:40:24,2672.59,Ola,Transport Services,Chennai,UPI,Mobile,0
+STU003,TXN10042,06-09-2025,10:16:38,2531.11,Flipkart,E-commerce,Delhi,UPI,Mobile,0
+STU003,TXN10043,03-04-2025,12:13:56,1189.53,Swiggy,Food Delivery,Ahmedabad,UPI,Mobile,0
+STU003,TXN10044,21-05-2025,09:26:20,720.51,Myntra,Fashion & Apparel,Ahmedabad,UPI,Desktop,0
+STU003,TXN10045,17-12-2024,16:14:04,183.26,Flipkart,E-commerce,Indore,UPI,Mobile,0
+STU003,TXN10046,26-02-2025,17:46:54,117.55,Dominos,General Retail,Indore,Net Banking,Mobile,0
+STU003,TXN10047,18-02-2025,00:27:25,99.15,Amazon,E-commerce,Indore,Credit Card,Mobile,0
+STU003,TXN10048,28-04-2025,21:45:50,268.92,Dominos,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10049,09-05-2025,12:58:53,1947.57,Amazon,E-commerce,Hyderabad,Credit Card,Mobile,0
+STU003,TXN10050,25-06-2025,05:45:48,2303.33,Ola,Transport Services,Delhi,UPI,Mobile,0
+STU003,TXN10051,18-07-2025,08:21:20,2556.55,BookMyShow,Entertainment,Nagpur,Credit Card,Desktop,0
+STU003,TXN10052,18-03-2025,08:48:05,2434.59,Myntra,Fashion & Apparel,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10053,14-08-2025,03:24:42,1102.22,Paytm,Digital Payments,Indore,Debit Card,Mobile,0
+STU003,TXN10054,05-12-2024,18:23:03,1423.75,Flipkart,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10055,27-08-2025,09:41:38,1399.14,Paytm,Digital Payments,Chennai,UPI,Mobile,0
+STU003,TXN10056,01-10-2025,23:54:11,817.64,Flipkart,E-commerce,Delhi,UPI,Desktop,1
+STU003,TXN10057,16-08-2025,11:06:48,2323.34,BigBasket,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10058,30-03-2025,04:56:48,2463.68,Zomato,Food Delivery,Mumbai,Credit Card,Mobile,0
+STU003,TXN10059,12-12-2024,05:12:32,1229.28,Swiggy,Food Delivery,Chennai,UPI,Desktop,0
+STU003,TXN10060,14-10-2024,08:12:28,2102.5,Flipkart,E-commerce,Chennai,Credit Card,Mobile,0
+STU003,TXN10061,03-03-2025,22:02:37,206.67,Flipkart,E-commerce,Nashik,UPI,Mobile,0
+STU003,TXN10062,22-07-2025,18:15:33,2238.54,Amazon,E-commerce,Pune,Debit Card,Mobile,0
+STU003,TXN10063,25-07-2025,10:33:51,392.46,IRCTC,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10064,02-04-2025,05:53:48,1741.51,Flipkart,E-commerce,Hyderabad,Net Banking,Mobile,0
+STU003,TXN10065,18-08-2025,17:00:08,1047.74,BookMyShow,Entertainment,Hyderabad,Net Banking,Mobile,0
+STU003,TXN10066,13-10-2024,11:07:28,347.82,Swiggy,Food Delivery,Bangalore,UPI,Mobile,0
+STU003,TXN10067,10-10-2025,08:42:11,1774.98,Paytm,Digital Payments,Bangalore,UPI,Desktop,0
+STU003,TXN10068,25-02-2025,11:10:58,1536.86,Dominos,General Retail,Pune,UPI,Mobile,0
+STU003,TXN10069,10-02-2025,12:58:00,980.18,Paytm,Digital Payments,Hyderabad,UPI,Mobile,0
+STU003,TXN10070,22-06-2025,01:35:42,1665.33,Flipkart,E-commerce,Indore,UPI,Mobile,0
+STU003,TXN10071,13-04-2025,01:39:03,1908.95,Amazon,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10072,08-10-2025,23:05:36,2880.12,Swiggy,Food Delivery,Nashik,UPI,Mobile,0
+STU003,TXN10073,15-11-2024,05:11:41,1225.71,Uber,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10074,29-04-2025,18:13:16,1010.79,Uber,General Retail,Nashik,Net Banking,Mobile,0
+STU003,TXN10075,12-04-2025,15:11:53,2939.5,Dominos,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10076,02-11-2024,09:33:14,886.52,BookMyShow,Entertainment,Delhi,UPI,Mobile,0
+STU003,TXN10077,24-12-2024,00:28:21,1386.33,Flipkart,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10078,14-10-2024,10:20:38,1889.06,Swiggy,Food Delivery,Bangalore,UPI,Mobile,0
+STU003,TXN10079,10-03-2025,11:46:11,669.39,Swiggy,Food Delivery,Nagpur,UPI,Mobile,0
+STU003,TXN10080,18-01-2025,06:23:18,755.27,Ola,Transport Services,Bangalore,UPI,Mobile,0
+STU003,TXN10081,20-03-2025,10:17:24,2524.98,Paytm,Digital Payments,Nashik,UPI,Mobile,0
+STU003,TXN10082,28-12-2024,23:57:58,2707.85,Dominos,General Retail,Bangalore,UPI,Desktop,0
+STU003,TXN10083,08-04-2025,00:25:42,2764.79,Flipkart,E-commerce,Indore,UPI,Mobile,0
+STU003,TXN10084,24-03-2025,16:50:10,1582.7,Paytm,Digital Payments,Bangalore,UPI,Mobile,0
+STU003,TXN10085,03-06-2025,21:55:59,72.06,Zomato,Food Delivery,Hyderabad,Net Banking,Desktop,0
+STU003,TXN10086,24-12-2024,14:53:08,500.6,Zomato,Food Delivery,Delhi,UPI,Mobile,0
+STU003,TXN10087,06-01-2025,08:46:22,569.86,BigBasket,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10088,08-12-2024,11:47:01,798.03,Dominos,General Retail,Pune,UPI,Mobile,0
+STU003,TXN10089,04-02-2025,13:45:28,181.77,BigBasket,General Retail,Chennai,Credit Card,Mobile,0
+STU003,TXN10090,28-04-2025,17:51:23,2884.59,Paytm,Digital Payments,Mumbai,Net Banking,Mobile,0
+STU003,TXN10091,19-01-2025,18:15:50,2762.73,Uber,General Retail,Pune,UPI,Mobile,0
+STU003,TXN10092,22-04-2025,23:57:57,607.69,Uber,General Retail,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10093,22-02-2025,05:25:04,538.11,Amazon,E-commerce,Mumbai,Debit Card,Mobile,0
+STU003,TXN10094,25-06-2025,09:10:27,2071.38,Uber,General Retail,Mumbai,Net Banking,Mobile,0
+STU003,TXN10095,15-12-2024,20:58:39,2243.38,Ola,Transport Services,Mumbai,UPI,Mobile,0
+STU003,TXN10096,24-10-2024,22:29:55,2336.49,Zomato,Food Delivery,Hyderabad,UPI,Mobile,0
+STU003,TXN10097,20-04-2025,19:22:22,1014.8,Dominos,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10098,18-06-2025,11:34:47,2191.57,Ola,Transport Services,Bangalore,UPI,Mobile,0
+STU003,TXN10099,22-04-2025,08:32:04,808.52,Flipkart,E-commerce,Bangalore,Debit Card,Desktop,0
+STU003,TXN10100,07-07-2025,05:19:14,158.2,Amazon,E-commerce,Ahmedabad,UPI,Mobile,0
+STU003,TXN10101,18-07-2025,03:52:38,1407.51,Uber,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10102,15-05-2025,08:21:54,2628.1,Flipkart,E-commerce,Nashik,UPI,Mobile,0
+STU003,TXN10103,29-01-2025,23:15:43,1552.15,Amazon,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10104,11-08-2025,15:17:23,1166.76,Ola,Transport Services,Mumbai,UPI,Desktop,0
+STU003,TXN10105,04-01-2025,00:32:56,2284.1,Ola,Transport Services,Pune,UPI,Mobile,0
+STU003,TXN10106,23-09-2025,19:29:43,156.61,Swiggy,Food Delivery,Nagpur,Net Banking,Mobile,0
+STU003,TXN10107,04-07-2025,20:57:54,2085.22,Swiggy,Food Delivery,Ahmedabad,UPI,Desktop,0
+STU003,TXN10108,21-11-2024,15:57:33,533.53,Amazon,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10109,15-10-2024,21:15:27,2135.19,Paytm,Digital Payments,Pune,UPI,Mobile,0
+STU003,TXN10110,27-11-2024,03:12:51,1916.37,BigBasket,General Retail,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10111,21-03-2025,05:53:28,2040.46,Ola,Transport Services,Pune,UPI,Desktop,0
+STU003,TXN10112,28-12-2024,08:45:53,122.54,Dominos,General Retail,Delhi,Debit Card,Mobile,0
+STU003,TXN10113,02-07-2025,23:21:47,88.96,BookMyShow,Entertainment,Delhi,UPI,Mobile,0
+STU003,TXN10114,14-10-2024,17:11:33,343.65,Ola,Transport Services,Indore,UPI,Mobile,0
+STU003,TXN10115,28-04-2025,13:04:22,2784.4,Uber,General Retail,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10116,21-07-2025,01:01:56,2297.61,Uber,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10117,13-05-2025,13:35:58,2389.65,BigBasket,General Retail,Hyderabad,Debit Card,Desktop,0
+STU003,TXN10118,07-06-2025,07:35:02,690.06,BookMyShow,Entertainment,Indore,Debit Card,Mobile,0
+STU003,TXN10119,28-09-2025,09:18:39,686.4,BookMyShow,Entertainment,Hyderabad,UPI,Mobile,0
+STU003,TXN10120,30-04-2025,19:52:38,1450.12,Flipkart,E-commerce,Chennai,UPI,Mobile,0
+STU003,TXN10121,23-06-2025,15:08:48,1082.98,Amazon,E-commerce,Nagpur,Debit Card,Mobile,0
+STU003,TXN10122,31-08-2025,06:10:32,61.67,Ola,Transport Services,Hyderabad,Net Banking,Mobile,0
+STU003,TXN10123,30-01-2025,17:31:44,2990.89,Myntra,Fashion & Apparel,Ahmedabad,Credit Card,Mobile,0
+STU003,TXN10124,15-02-2025,08:24:05,1402.03,Swiggy,Food Delivery,Nagpur,Debit Card,Mobile,0
+STU003,TXN10125,17-06-2025,01:54:14,2169.14,Zomato,Food Delivery,Ahmedabad,Credit Card,Mobile,0
+STU003,TXN10126,03-04-2025,22:48:10,1615.88,Ola,Transport Services,Ahmedabad,Net Banking,Mobile,0
+STU003,TXN10127,27-09-2025,16:50:58,293.79,Zomato,Food Delivery,Nagpur,UPI,Mobile,0
+STU003,TXN10128,19-09-2025,10:29:20,1500.47,Myntra,Fashion & Apparel,Nagpur,Debit Card,Mobile,0
+STU003,TXN10129,04-08-2025,07:12:22,1659.62,Zomato,Food Delivery,Hyderabad,UPI,Desktop,0
+STU003,TXN10130,11-10-2024,19:19:02,1855.68,Dominos,General Retail,Chennai,Debit Card,Mobile,0
+STU003,TXN10131,03-11-2024,23:36:27,785.78,BookMyShow,Entertainment,Nagpur,UPI,Mobile,0
+STU003,TXN10132,14-07-2025,11:01:42,1767.75,Ola,Transport Services,Indore,UPI,Mobile,0
+STU003,TXN10133,19-03-2025,04:30:29,154.69,Uber,General Retail,Pune,UPI,Mobile,0
+STU003,TXN10134,29-09-2025,03:27:28,2581.25,Uber,General Retail,Hyderabad,UPI,Mobile,0
+STU003,TXN10135,18-12-2024,02:40:58,1883.58,Flipkart,E-commerce,Indore,Debit Card,Mobile,0
+STU003,TXN10136,04-02-2025,00:57:02,1849.29,Dominos,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10137,25-01-2025,01:43:38,2883.27,Myntra,Fashion & Apparel,Nashik,Debit Card,Desktop,0
+STU003,TXN10138,04-06-2025,18:58:28,2109.88,BookMyShow,Entertainment,Nagpur,UPI,Desktop,0
+STU003,TXN10139,17-05-2025,09:05:15,1693.91,BookMyShow,Entertainment,Bangalore,Credit Card,Mobile,0
+STU003,TXN10140,22-07-2025,19:58:34,2192.6,Myntra,Fashion & Apparel,Chennai,Credit Card,Desktop,0
+STU003,TXN10141,21-06-2025,17:05:10,2042.07,Ola,Transport Services,Hyderabad,UPI,Mobile,0
+STU003,TXN10142,30-06-2025,18:30:34,784.53,Amazon,E-commerce,Delhi,Net Banking,Mobile,0
+STU003,TXN10143,29-04-2025,05:50:29,352.28,Paytm,Digital Payments,Mumbai,UPI,Mobile,0
+STU003,TXN10144,10-04-2025,13:48:40,2938.52,Flipkart,E-commerce,Mumbai,Credit Card,Mobile,0
+STU003,TXN10145,12-10-2024,07:01:29,2022.81,Ola,Transport Services,Delhi,Credit Card,Mobile,0
+STU003,TXN10146,27-06-2025,02:20:56,1518.65,Zomato,Food Delivery,Mumbai,Debit Card,Mobile,0
+STU003,TXN10147,18-02-2025,16:43:22,2222.7,Uber,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10148,19-10-2024,09:42:37,677.23,Paytm,Digital Payments,Bangalore,UPI,Mobile,0
+STU003,TXN10149,03-05-2025,20:27:41,2825.65,Paytm,Digital Payments,Delhi,Debit Card,Mobile,0
+STU003,TXN10150,16-08-2025,08:34:36,2022.38,Paytm,Digital Payments,Pune,UPI,Mobile,0
+STU003,TXN10151,13-11-2024,15:04:29,2667.89,IRCTC,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10152,22-06-2025,02:28:10,2776.64,Paytm,Digital Payments,Hyderabad,UPI,Mobile,0
+STU003,TXN10153,14-07-2025,15:23:10,669.98,Amazon,E-commerce,Nashik,Debit Card,Mobile,0
+STU003,TXN10154,24-04-2025,23:15:58,823.84,Uber,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10155,31-01-2025,10:16:54,2372.97,Ola,Transport Services,Nagpur,Debit Card,Mobile,0
+STU003,TXN10156,04-03-2025,03:40:48,1039.16,Ola,Transport Services,Ahmedabad,UPI,Mobile,0
+STU003,TXN10157,28-11-2024,16:48:02,997.78,Amazon,E-commerce,Mumbai,Debit Card,Mobile,0
+STU003,TXN10158,28-02-2025,11:24:40,855.81,BookMyShow,Entertainment,Mumbai,UPI,Mobile,0
+STU003,TXN10159,12-01-2025,10:58:09,1776.65,Amazon,E-commerce,Chennai,UPI,Mobile,1
+STU003,TXN10160,01-05-2025,22:00:25,1799.37,BookMyShow,Entertainment,Bangalore,Debit Card,Mobile,0
+STU003,TXN10161,25-06-2025,21:36:27,2824.33,IRCTC,General Retail,Ahmedabad,Debit Card,Mobile,1
+STU003,TXN10162,18-07-2025,17:41:41,1764.9,Uber,General Retail,Nashik,Credit Card,Mobile,0
+STU003,TXN10163,11-11-2024,12:26:48,2364.72,Zomato,Food Delivery,Ahmedabad,UPI,Mobile,0
+STU003,TXN10164,29-01-2025,11:33:19,2925.57,Zomato,Food Delivery,Hyderabad,UPI,Mobile,0
+STU003,TXN10165,23-02-2025,19:29:24,611.68,Ola,Transport Services,Mumbai,Credit Card,Mobile,0
+STU003,TXN10166,15-07-2025,03:56:49,1275.83,BookMyShow,Entertainment,Hyderabad,UPI,Desktop,0
+STU003,TXN10167,21-01-2025,07:42:09,375.3,Dominos,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10168,12-12-2024,16:39:09,1166.51,Dominos,General Retail,Hyderabad,UPI,Mobile,0
+STU003,TXN10169,14-01-2025,19:16:42,2198.36,Ola,Transport Services,Pune,UPI,Desktop,0
+STU003,TXN10170,26-03-2025,18:10:21,197.59,Swiggy,Food Delivery,Hyderabad,Net Banking,Mobile,0
+STU003,TXN10171,22-03-2025,04:31:05,1187.66,Paytm,Digital Payments,Chennai,UPI,Mobile,0
+STU003,TXN10172,28-11-2024,11:44:25,677.91,BigBasket,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10173,17-08-2025,03:05:48,1986.53,Uber,General Retail,Nagpur,Debit Card,Mobile,0
+STU003,TXN10174,23-07-2025,14:23:51,2081.79,BookMyShow,Entertainment,Delhi,Debit Card,Mobile,0
+STU003,TXN10175,17-04-2025,00:55:48,437.86,Paytm,Digital Payments,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10176,03-08-2025,02:33:38,81.95,Myntra,Fashion & Apparel,Chennai,UPI,Mobile,0
+STU003,TXN10177,01-09-2025,02:42:31,2216.45,Amazon,E-commerce,Bangalore,UPI,Mobile,0
+STU003,TXN10178,19-02-2025,08:31:23,1391.54,Amazon,E-commerce,Nashik,UPI,Mobile,0
+STU003,TXN10179,06-01-2025,00:31:03,606.85,Amazon,E-commerce,Chennai,Debit Card,Mobile,0
+STU003,TXN10180,21-08-2025,19:03:59,1427.48,Amazon,E-commerce,Delhi,UPI,Mobile,0
+STU003,TXN10181,11-03-2025,15:20:32,957.78,Uber,General Retail,Delhi,UPI,Desktop,0
+STU003,TXN10182,30-06-2025,20:34:30,1531.77,IRCTC,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10183,03-02-2025,09:47:46,1577.06,Paytm,Digital Payments,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10184,07-07-2025,05:19:17,1289.15,Amazon,E-commerce,Ahmedabad,UPI,Mobile,0
+STU003,TXN10185,30-06-2025,12:40:42,1302.44,Ola,Transport Services,Indore,UPI,Mobile,0
+STU003,TXN10186,11-10-2024,17:30:32,761.79,Dominos,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10187,09-08-2025,16:59:31,1993.15,Myntra,Fashion & Apparel,Pune,Debit Card,Mobile,0
+STU003,TXN10188,10-07-2025,01:50:14,1910.95,Dominos,General Retail,Delhi,Net Banking,Mobile,1
+STU003,TXN10189,16-10-2024,21:21:03,2545.0,Zomato,Food Delivery,Nagpur,UPI,Mobile,0
+STU003,TXN10190,29-01-2025,07:09:28,371.82,Swiggy,Food Delivery,Pune,Net Banking,Mobile,0
+STU003,TXN10191,05-03-2025,03:53:02,1660.96,Zomato,Food Delivery,Nagpur,Credit Card,Mobile,0
+STU003,TXN10192,20-10-2024,10:41:34,700.78,Dominos,General Retail,Bangalore,UPI,Desktop,0
+STU003,TXN10193,23-12-2024,15:13:13,2772.97,Myntra,Fashion & Apparel,Indore,UPI,Mobile,0
+STU003,TXN10194,20-09-2025,09:06:10,781.33,Dominos,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10195,04-07-2025,06:24:01,2871.32,Swiggy,Food Delivery,Nashik,UPI,Mobile,0
+STU003,TXN10196,05-12-2024,03:50:53,2077.93,Flipkart,E-commerce,Nagpur,Credit Card,Mobile,0
+STU003,TXN10197,10-02-2025,22:00:42,211.38,Uber,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10198,05-02-2025,00:08:54,1365.91,Dominos,General Retail,Nagpur,Debit Card,Mobile,0
+STU003,TXN10199,01-07-2025,06:52:33,469.73,Ola,Transport Services,Bangalore,UPI,Mobile,0
+STU003,TXN10200,15-05-2025,09:09:21,673.73,Flipkart,E-commerce,Hyderabad,UPI,Mobile,0
+STU003,TXN10201,30-08-2025,18:21:53,2001.67,BigBasket,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10202,21-02-2025,14:48:54,2691.19,BigBasket,General Retail,Bangalore,Debit Card,Mobile,0
+STU003,TXN10203,22-04-2025,10:34:30,2495.37,Paytm,Digital Payments,Hyderabad,Credit Card,Mobile,0
+STU003,TXN10204,01-01-2025,23:51:43,1680.78,Dominos,General Retail,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10205,02-03-2025,02:23:36,658.76,Ola,Transport Services,Indore,UPI,Mobile,0
+STU003,TXN10206,26-06-2025,18:36:22,1920.56,Myntra,Fashion & Apparel,Indore,Credit Card,Mobile,0
+STU003,TXN10207,19-09-2025,12:39:04,1140.63,BigBasket,General Retail,Mumbai,UPI,Mobile,0
+STU003,TXN10208,28-07-2025,08:18:00,1022.11,Paytm,Digital Payments,Delhi,UPI,Desktop,0
+STU003,TXN10209,20-05-2025,05:25:02,1868.54,Uber,General Retail,Indore,Debit Card,Mobile,0
+STU003,TXN10210,30-09-2025,21:45:35,968.06,BigBasket,General Retail,Nashik,Debit Card,Mobile,0
+STU003,TXN10211,09-03-2025,18:16:25,739.29,Zomato,Food Delivery,Pune,Net Banking,Mobile,0
+STU003,TXN10212,22-08-2025,22:22:04,1081.21,Swiggy,Food Delivery,Nagpur,Credit Card,Mobile,0
+STU003,TXN10213,26-01-2025,18:21:15,1404.22,Swiggy,Food Delivery,Pune,UPI,Desktop,0
+STU003,TXN10214,21-09-2025,13:23:49,2113.17,Flipkart,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10215,18-02-2025,21:43:59,2613.16,Zomato,Food Delivery,Ahmedabad,UPI,Mobile,0
+STU003,TXN10216,22-07-2025,22:45:38,2948.1,Myntra,Fashion & Apparel,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10217,21-03-2025,06:27:30,2645.33,Uber,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10218,08-01-2025,16:55:46,2301.4,Ola,Transport Services,Mumbai,UPI,Mobile,0
+STU003,TXN10219,28-05-2025,09:23:09,1256.54,Flipkart,E-commerce,Nagpur,Debit Card,Mobile,0
+STU003,TXN10220,14-05-2025,09:13:44,258.8,IRCTC,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10221,01-08-2025,23:30:05,834.53,Flipkart,E-commerce,Delhi,UPI,Mobile,0
+STU003,TXN10222,13-11-2024,02:04:59,744.5,Uber,General Retail,Bangalore,UPI,Desktop,0
+STU003,TXN10223,25-12-2024,10:25:23,2213.73,BigBasket,General Retail,Mumbai,UPI,Mobile,0
+STU003,TXN10224,04-11-2024,01:13:52,99.16,Ola,Transport Services,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10225,06-04-2025,12:00:58,2767.79,Zomato,Food Delivery,Nagpur,UPI,Mobile,0
+STU003,TXN10226,15-04-2025,16:14:52,1944.34,Amazon,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10227,18-01-2025,22:46:26,139.63,Zomato,Food Delivery,Chennai,UPI,Mobile,1
+STU003,TXN10228,03-08-2025,22:35:41,1487.49,Swiggy,Food Delivery,Indore,UPI,Mobile,0
+STU003,TXN10229,23-02-2025,16:05:42,2209.37,Myntra,Fashion & Apparel,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10230,05-12-2024,11:48:07,1353.47,Paytm,Digital Payments,Pune,Debit Card,Mobile,0
+STU003,TXN10231,03-10-2025,10:52:23,1879.25,IRCTC,General Retail,Chennai,Debit Card,Desktop,0
+STU003,TXN10232,30-04-2025,14:54:46,1910.14,Ola,Transport Services,Mumbai,UPI,Mobile,0
+STU003,TXN10233,28-01-2025,04:14:43,2978.62,Dominos,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10234,11-11-2024,20:35:06,680.04,IRCTC,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10235,03-06-2025,03:36:02,959.05,IRCTC,General Retail,Indore,Debit Card,Mobile,0
+STU003,TXN10236,07-03-2025,12:05:02,811.63,Flipkart,E-commerce,Hyderabad,UPI,Mobile,0
+STU003,TXN10237,01-11-2024,10:42:55,2669.87,Amazon,E-commerce,Pune,Debit Card,Mobile,0
+STU003,TXN10238,15-08-2025,10:17:59,2206.59,BigBasket,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10239,29-03-2025,12:53:44,455.75,BookMyShow,Entertainment,Mumbai,UPI,Mobile,1
+STU003,TXN10240,17-08-2025,11:59:20,2736.14,BigBasket,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10241,14-11-2024,11:17:06,2219.03,Myntra,Fashion & Apparel,Indore,Net Banking,Desktop,0
+STU003,TXN10242,23-04-2025,14:33:47,816.39,BookMyShow,Entertainment,Delhi,Debit Card,Mobile,0
+STU003,TXN10243,03-10-2025,04:21:22,1887.6,Paytm,Digital Payments,Delhi,Debit Card,Desktop,0
+STU003,TXN10244,01-11-2024,03:53:24,2652.59,Ola,Transport Services,Bangalore,Debit Card,Desktop,0
+STU003,TXN10245,02-11-2024,12:21:47,1687.87,Swiggy,Food Delivery,Mumbai,UPI,Mobile,0
+STU003,TXN10246,27-05-2025,20:09:57,381.85,Dominos,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10247,31-10-2024,06:40:52,263.2,Uber,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10248,12-10-2024,21:15:14,431.45,Myntra,Fashion & Apparel,Mumbai,Debit Card,Desktop,0
+STU003,TXN10249,04-04-2025,22:04:24,972.68,IRCTC,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10250,20-12-2024,03:06:34,1741.22,Swiggy,Food Delivery,Chennai,UPI,Mobile,0
+STU003,TXN10251,07-12-2024,15:42:48,1058.55,IRCTC,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10252,31-03-2025,10:21:32,1054.41,BookMyShow,Entertainment,Hyderabad,UPI,Desktop,0
+STU003,TXN10253,27-07-2025,13:36:24,333.87,Zomato,Food Delivery,Pune,UPI,Desktop,0
+STU003,TXN10254,17-02-2025,11:09:58,346.45,BookMyShow,Entertainment,Delhi,Net Banking,Mobile,0
+STU003,TXN10255,18-12-2024,20:11:06,1802.42,Myntra,Fashion & Apparel,Pune,UPI,Mobile,0
+STU003,TXN10256,17-12-2024,05:52:48,2276.9,BigBasket,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10257,11-05-2025,02:45:30,347.67,IRCTC,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10258,28-05-2025,02:01:39,2721.99,Uber,General Retail,Pune,UPI,Mobile,0
+STU003,TXN10259,16-07-2025,12:32:16,2182.9,Swiggy,Food Delivery,Delhi,Debit Card,Mobile,0
+STU003,TXN10260,21-06-2025,09:44:27,2279.14,Uber,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10261,03-09-2025,02:51:10,2491.96,Uber,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10262,11-03-2025,19:16:06,509.21,Swiggy,Food Delivery,Ahmedabad,UPI,Desktop,0
+STU003,TXN10263,29-06-2025,03:02:31,2552.94,Flipkart,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10264,24-06-2025,09:52:57,134.22,Flipkart,E-commerce,Chennai,Net Banking,Mobile,0
+STU003,TXN10265,11-08-2025,22:16:27,1426.74,Swiggy,Food Delivery,Pune,UPI,Desktop,0
+STU003,TXN10266,27-04-2025,22:25:40,671.64,BigBasket,General Retail,Nagpur,Net Banking,Mobile,0
+STU003,TXN10267,30-03-2025,17:21:39,925.93,Amazon,E-commerce,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10268,13-08-2025,05:06:42,2619.92,BookMyShow,Entertainment,Delhi,UPI,Mobile,0
+STU003,TXN10269,24-01-2025,21:19:42,218.72,Flipkart,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10270,09-07-2025,01:17:35,1074.14,Swiggy,Food Delivery,Bangalore,UPI,Mobile,0
+STU003,TXN10271,23-05-2025,07:00:38,2655.93,Zomato,Food Delivery,Nashik,UPI,Mobile,0
+STU003,TXN10272,30-08-2025,19:36:14,2887.44,Ola,Transport Services,Pune,UPI,Mobile,0
+STU003,TXN10273,18-06-2025,16:47:02,1292.08,Amazon,E-commerce,Hyderabad,UPI,Mobile,0
+STU003,TXN10274,14-06-2025,00:58:08,1976.92,BookMyShow,Entertainment,Nagpur,UPI,Mobile,0
+STU003,TXN10275,28-11-2024,09:26:51,1380.63,Paytm,Digital Payments,Bangalore,Net Banking,Desktop,0
+STU003,TXN10276,24-11-2024,04:51:42,1174.96,Myntra,Fashion & Apparel,Nashik,UPI,Mobile,0
+STU003,TXN10277,05-04-2025,22:32:32,2483.89,Myntra,Fashion & Apparel,Pune,Debit Card,Mobile,0
+STU003,TXN10278,14-05-2025,23:56:59,1198.79,Uber,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10279,08-02-2025,03:55:42,656.17,Swiggy,Food Delivery,Delhi,Net Banking,Mobile,0
+STU003,TXN10280,02-12-2024,16:57:03,558.76,Dominos,General Retail,Mumbai,Debit Card,Mobile,0
+STU003,TXN10281,25-03-2025,06:33:56,2664.58,Flipkart,E-commerce,Ahmedabad,Debit Card,Desktop,0
+STU003,TXN10282,11-05-2025,00:34:58,849.9,Dominos,General Retail,Bangalore,Net Banking,Mobile,0
+STU003,TXN10283,07-09-2025,10:34:35,2627.53,Paytm,Digital Payments,Bangalore,UPI,Mobile,0
+STU003,TXN10284,07-03-2025,00:52:47,1930.37,Myntra,Fashion & Apparel,Nagpur,UPI,Mobile,0
+STU003,TXN10285,28-06-2025,09:38:40,1180.97,Dominos,General Retail,Mumbai,UPI,Mobile,0
+STU003,TXN10286,06-07-2025,20:35:13,1784.28,Swiggy,Food Delivery,Pune,Debit Card,Mobile,0
+STU003,TXN10287,02-10-2025,01:49:22,947.83,Zomato,Food Delivery,Nagpur,UPI,Mobile,0
+STU003,TXN10288,03-01-2025,11:42:09,2730.21,BookMyShow,Entertainment,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10289,10-10-2024,22:57:40,1648.66,Dominos,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10290,27-06-2025,22:52:17,85.16,Uber,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10291,19-07-2025,15:54:06,280.91,Myntra,Fashion & Apparel,Pune,Credit Card,Mobile,0
+STU003,TXN10292,11-02-2025,06:02:18,296.04,IRCTC,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10293,31-08-2025,12:31:51,1745.65,Flipkart,E-commerce,Mumbai,Net Banking,Desktop,0
+STU003,TXN10294,07-08-2025,21:12:28,1152.08,Swiggy,Food Delivery,Pune,UPI,Mobile,0
+STU003,TXN10295,08-08-2025,15:59:20,1565.6,BookMyShow,Entertainment,Pune,Credit Card,Mobile,0
+STU003,TXN10296,20-11-2024,15:19:49,1077.85,Ola,Transport Services,Mumbai,Net Banking,Desktop,0
+STU003,TXN10297,09-11-2024,06:16:37,1679.24,IRCTC,General Retail,Bangalore,Net Banking,Mobile,0
+STU003,TXN10298,03-10-2025,06:05:43,729.83,Swiggy,Food Delivery,Chennai,UPI,Mobile,0
+STU003,TXN10299,14-03-2025,10:46:30,1230.91,BigBasket,General Retail,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10300,21-03-2025,16:56:13,1057.2,Myntra,Fashion & Apparel,Mumbai,Debit Card,Mobile,0
+STU003,TXN10301,17-08-2025,13:27:11,1453.61,Uber,General Retail,Delhi,Net Banking,Mobile,0
+STU003,TXN10302,03-11-2024,08:11:05,2680.41,Paytm,Digital Payments,Hyderabad,UPI,Mobile,0
+STU003,TXN10303,10-12-2024,15:34:06,2574.87,Paytm,Digital Payments,Pune,UPI,Mobile,0
+STU003,TXN10304,25-11-2024,02:05:03,2464.98,Uber,General Retail,Delhi,UPI,Desktop,0
+STU003,TXN10305,19-01-2025,20:41:48,2988.68,Ola,Transport Services,Ahmedabad,UPI,Mobile,0
+STU003,TXN10306,14-05-2025,05:54:08,387.99,Dominos,General Retail,Delhi,UPI,Desktop,0
+STU003,TXN10307,30-12-2024,15:42:26,288.91,Dominos,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10308,23-08-2025,14:29:42,2483.01,Uber,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10309,28-11-2024,05:13:19,1759.61,Amazon,E-commerce,Bangalore,Debit Card,Mobile,0
+STU003,TXN10310,10-10-2025,10:23:24,1703.82,Flipkart,E-commerce,Nashik,UPI,Mobile,0
+STU003,TXN10311,08-01-2025,03:35:18,1858.12,Flipkart,E-commerce,Indore,UPI,Mobile,0
+STU003,TXN10312,30-12-2024,00:50:34,277.42,Ola,Transport Services,Nagpur,UPI,Mobile,0
+STU003,TXN10313,25-05-2025,11:38:26,1865.06,Ola,Transport Services,Chennai,UPI,Mobile,0
+STU003,TXN10314,02-03-2025,14:00:17,1340.27,Flipkart,E-commerce,Bangalore,Debit Card,Mobile,0
+STU003,TXN10315,12-09-2025,10:57:38,1673.64,Myntra,Fashion & Apparel,Pune,Net Banking,Desktop,0
+STU003,TXN10316,30-07-2025,08:50:07,1043.19,Paytm,Digital Payments,Delhi,Net Banking,Mobile,0
+STU003,TXN10317,14-09-2025,21:26:18,2255.93,Amazon,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10318,27-11-2024,15:44:43,1514.36,Zomato,Food Delivery,Nashik,Net Banking,Mobile,0
+STU003,TXN10319,02-02-2025,00:41:09,2856.53,Ola,Transport Services,Ahmedabad,UPI,Mobile,0
+STU003,TXN10320,25-07-2025,21:04:41,2672.35,BigBasket,General Retail,Pune,UPI,Mobile,0
+STU003,TXN10321,17-02-2025,10:51:56,419.54,Uber,General Retail,Pune,Debit Card,Mobile,0
+STU003,TXN10322,18-03-2025,09:22:19,906.97,BookMyShow,Entertainment,Pune,UPI,Mobile,0
+STU003,TXN10323,03-03-2025,19:41:17,2706.03,Ola,Transport Services,Bangalore,Net Banking,Mobile,0
+STU003,TXN10324,11-05-2025,16:10:37,2729.96,Ola,Transport Services,Pune,UPI,Mobile,0
+STU003,TXN10325,27-01-2025,19:37:00,2289.73,Amazon,E-commerce,Hyderabad,UPI,Desktop,0
+STU003,TXN10326,16-04-2025,05:35:17,2840.66,Paytm,Digital Payments,Ahmedabad,UPI,Mobile,0
+STU003,TXN10327,14-05-2025,08:53:47,2591.28,Ola,Transport Services,Delhi,UPI,Mobile,0
+STU003,TXN10328,05-09-2025,18:05:53,2398.61,Flipkart,E-commerce,Bangalore,Net Banking,Mobile,0
+STU003,TXN10329,27-06-2025,02:59:40,1664.0,Ola,Transport Services,Delhi,UPI,Mobile,0
+STU003,TXN10330,08-03-2025,22:14:20,1067.13,IRCTC,General Retail,Chennai,Debit Card,Mobile,0
+STU003,TXN10331,22-07-2025,05:42:04,117.0,Paytm,Digital Payments,Nashik,UPI,Mobile,0
+STU003,TXN10332,02-10-2025,12:06:43,140.54,IRCTC,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10333,11-06-2025,18:34:01,1947.5,Dominos,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10334,17-04-2025,07:48:02,2808.94,Paytm,Digital Payments,Bangalore,UPI,Mobile,0
+STU003,TXN10335,01-05-2025,07:59:36,2612.07,BigBasket,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10336,29-07-2025,20:07:40,1832.76,Amazon,E-commerce,Mumbai,Debit Card,Mobile,0
+STU003,TXN10337,30-06-2025,12:17:29,386.41,Flipkart,E-commerce,Pune,Debit Card,Mobile,0
+STU003,TXN10338,25-01-2025,22:35:29,2378.53,Uber,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10339,22-11-2024,09:21:26,334.64,Flipkart,E-commerce,Chennai,Net Banking,Desktop,0
+STU003,TXN10340,27-04-2025,04:10:19,1221.68,Uber,General Retail,Mumbai,Debit Card,Mobile,1
+STU003,TXN10341,04-10-2025,06:02:12,2515.98,Swiggy,Food Delivery,Mumbai,UPI,Mobile,1
+STU003,TXN10342,05-08-2025,05:38:44,761.18,BigBasket,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10343,05-06-2025,20:45:01,196.27,BookMyShow,Entertainment,Ahmedabad,UPI,Mobile,0
+STU003,TXN10344,21-01-2025,03:36:44,1601.55,Ola,Transport Services,Hyderabad,UPI,Mobile,0
+STU003,TXN10345,02-08-2025,08:28:57,2180.08,Swiggy,Food Delivery,Nashik,UPI,Desktop,0
+STU003,TXN10346,27-09-2025,18:28:48,2249.67,Amazon,E-commerce,Delhi,Debit Card,Mobile,0
+STU003,TXN10347,28-05-2025,15:59:27,1924.12,BigBasket,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10348,26-12-2024,22:38:52,1611.91,Flipkart,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10349,09-08-2025,15:13:40,2312.04,Flipkart,E-commerce,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10350,03-03-2025,01:20:12,1759.6,IRCTC,General Retail,Delhi,UPI,Desktop,0
+STU003,TXN10351,23-03-2025,00:47:31,1115.09,Ola,Transport Services,Delhi,Debit Card,Mobile,0
+STU003,TXN10352,28-09-2025,10:39:55,1082.13,Myntra,Fashion & Apparel,Ahmedabad,UPI,Desktop,0
+STU003,TXN10353,31-08-2025,06:05:22,2059.21,BookMyShow,Entertainment,Bangalore,Debit Card,Mobile,0
+STU003,TXN10354,12-07-2025,04:57:45,755.43,BigBasket,General Retail,Delhi,Debit Card,Mobile,0
+STU003,TXN10355,21-11-2024,00:08:38,1959.78,BigBasket,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10356,19-03-2025,16:40:16,703.15,Swiggy,Food Delivery,Hyderabad,Net Banking,Desktop,0
+STU003,TXN10357,25-11-2024,19:06:18,782.25,Zomato,Food Delivery,Bangalore,UPI,Mobile,0
+STU003,TXN10358,16-04-2025,22:40:37,2372.42,Swiggy,Food Delivery,Indore,UPI,Mobile,0
+STU003,TXN10359,23-11-2024,22:58:47,564.65,BookMyShow,Entertainment,Ahmedabad,UPI,Mobile,0
+STU003,TXN10360,12-11-2024,16:17:58,2190.38,BigBasket,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10361,02-07-2025,07:04:28,2584.79,Swiggy,Food Delivery,Nagpur,Net Banking,Mobile,0
+STU003,TXN10362,07-09-2025,06:42:38,2887.57,Swiggy,Food Delivery,Indore,Credit Card,Desktop,0
+STU003,TXN10363,27-01-2025,03:47:25,2053.25,Dominos,General Retail,Indore,Debit Card,Mobile,0
+STU003,TXN10364,30-05-2025,06:15:23,149.55,Zomato,Food Delivery,Hyderabad,UPI,Mobile,0
+STU003,TXN10365,29-01-2025,12:13:38,1179.3,IRCTC,General Retail,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10366,03-09-2025,13:03:00,1257.86,Uber,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10367,19-06-2025,07:29:19,1277.05,IRCTC,General Retail,Hyderabad,Debit Card,Mobile,1
+STU003,TXN10368,08-12-2024,15:36:23,927.32,BigBasket,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10369,25-09-2025,12:40:13,230.25,BookMyShow,Entertainment,Delhi,UPI,Mobile,0
+STU003,TXN10370,29-12-2024,00:47:15,815.42,BigBasket,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10371,26-03-2025,05:33:15,1485.8,Swiggy,Food Delivery,Chennai,UPI,Mobile,0
+STU003,TXN10372,12-02-2025,23:16:46,573.86,IRCTC,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10373,27-10-2024,21:12:50,2238.41,Dominos,General Retail,Bangalore,Debit Card,Mobile,0
+STU003,TXN10374,18-03-2025,13:19:06,628.23,BigBasket,General Retail,Ahmedabad,Net Banking,Mobile,0
+STU003,TXN10375,24-01-2025,19:26:08,1450.49,IRCTC,General Retail,Delhi,Credit Card,Mobile,0
+STU003,TXN10376,19-04-2025,03:03:30,1494.86,Dominos,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10377,11-01-2025,23:44:22,2867.25,Ola,Transport Services,Pune,UPI,Mobile,0
+STU003,TXN10378,03-01-2025,20:40:26,1826.03,Dominos,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10379,03-10-2025,05:32:07,2083.99,Zomato,Food Delivery,Ahmedabad,UPI,Desktop,0
+STU003,TXN10380,25-04-2025,14:49:04,1888.64,Dominos,General Retail,Nashik,Credit Card,Mobile,0
+STU003,TXN10381,20-01-2025,01:35:48,1588.32,BookMyShow,Entertainment,Nashik,Net Banking,Mobile,0
+STU003,TXN10382,01-09-2025,08:45:48,2535.66,BookMyShow,Entertainment,Indore,Net Banking,Mobile,0
+STU003,TXN10383,29-08-2025,15:21:24,1520.53,Flipkart,E-commerce,Nagpur,Debit Card,Mobile,0
+STU003,TXN10384,06-01-2025,01:57:49,683.56,Zomato,Food Delivery,Nashik,UPI,Mobile,0
+STU003,TXN10385,15-11-2024,13:23:27,2325.11,BookMyShow,Entertainment,Nagpur,UPI,Mobile,1
+STU003,TXN10386,02-01-2025,02:52:29,2405.94,Myntra,Fashion & Apparel,Bangalore,UPI,Mobile,0
+STU003,TXN10387,30-01-2025,01:33:46,2215.7,Paytm,Digital Payments,Delhi,UPI,Desktop,0
+STU003,TXN10388,27-01-2025,09:51:54,1141.59,BigBasket,General Retail,Hyderabad,UPI,Mobile,0
+STU003,TXN10389,19-01-2025,16:44:04,786.14,BookMyShow,Entertainment,Delhi,Debit Card,Mobile,0
+STU003,TXN10390,02-12-2024,11:39:01,2380.68,Zomato,Food Delivery,Nagpur,Net Banking,Desktop,0
+STU003,TXN10391,11-11-2024,21:32:34,1451.33,Swiggy,Food Delivery,Bangalore,Net Banking,Mobile,0
+STU003,TXN10392,30-09-2025,11:22:21,2528.76,Paytm,Digital Payments,Nashik,UPI,Mobile,0
+STU003,TXN10393,25-08-2025,04:35:11,2644.15,BookMyShow,Entertainment,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10394,16-01-2025,05:48:32,851.86,Dominos,General Retail,Pune,UPI,Mobile,0
+STU003,TXN10395,14-07-2025,23:34:26,2830.76,Myntra,Fashion & Apparel,Nashik,UPI,Mobile,0
+STU003,TXN10396,13-05-2025,08:42:29,2177.17,Myntra,Fashion & Apparel,Nashik,Net Banking,Mobile,0
+STU003,TXN10397,16-12-2024,12:27:45,2017.09,Zomato,Food Delivery,Nashik,UPI,Mobile,0
+STU003,TXN10398,24-03-2025,03:39:29,2870.8,Swiggy,Food Delivery,Nagpur,UPI,Mobile,0
+STU003,TXN10399,18-11-2024,02:40:50,2725.48,Paytm,Digital Payments,Indore,Debit Card,Mobile,0
+STU003,TXN10400,11-05-2025,16:47:51,1658.2,Uber,General Retail,Chennai,Credit Card,Desktop,0
+STU003,TXN10401,07-11-2024,05:18:28,412.42,Ola,Transport Services,Hyderabad,UPI,Mobile,0
+STU003,TXN10402,15-09-2025,21:25:15,1388.19,Zomato,Food Delivery,Bangalore,UPI,Desktop,0
+STU003,TXN10403,03-05-2025,06:04:07,1503.43,Uber,General Retail,Pune,Debit Card,Mobile,0
+STU003,TXN10404,07-08-2025,08:05:51,1333.1,Flipkart,E-commerce,Bangalore,UPI,Mobile,0
+STU003,TXN10405,23-11-2024,23:23:35,1513.66,IRCTC,General Retail,Hyderabad,UPI,Mobile,0
+STU003,TXN10406,25-11-2024,13:35:04,362.4,BookMyShow,Entertainment,Delhi,UPI,Mobile,0
+STU003,TXN10407,05-06-2025,07:51:51,1987.1,Myntra,Fashion & Apparel,Nashik,UPI,Mobile,0
+STU003,TXN10408,22-08-2025,11:52:31,2215.28,Swiggy,Food Delivery,Ahmedabad,UPI,Mobile,0
+STU003,TXN10409,29-03-2025,23:57:37,1773.79,Ola,Transport Services,Bangalore,UPI,Desktop,0
+STU003,TXN10410,09-02-2025,11:23:39,1290.41,Flipkart,E-commerce,Mumbai,UPI,Mobile,1
+STU003,TXN10411,12-07-2025,21:16:44,1674.47,Zomato,Food Delivery,Delhi,UPI,Mobile,0
+STU003,TXN10412,26-03-2025,03:12:07,1889.25,Zomato,Food Delivery,Chennai,UPI,Mobile,0
+STU003,TXN10413,19-10-2024,16:58:19,1056.74,Swiggy,Food Delivery,Chennai,UPI,Mobile,0
+STU003,TXN10414,31-07-2025,12:15:11,2121.93,Amazon,E-commerce,Indore,UPI,Mobile,1
+STU003,TXN10415,15-02-2025,22:23:15,631.68,Uber,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10416,24-05-2025,11:28:06,511.23,Swiggy,Food Delivery,Hyderabad,UPI,Mobile,0
+STU003,TXN10417,04-03-2025,03:31:57,1992.05,Uber,General Retail,Nagpur,UPI,Desktop,0
+STU003,TXN10418,23-08-2025,22:49:15,612.8,IRCTC,General Retail,Indore,Net Banking,Mobile,0
+STU003,TXN10419,27-06-2025,18:51:56,1730.54,Paytm,Digital Payments,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10420,12-03-2025,22:11:38,958.32,Dominos,General Retail,Nashik,Debit Card,Desktop,0
+STU003,TXN10421,02-12-2024,13:48:13,2969.61,Myntra,Fashion & Apparel,Hyderabad,UPI,Desktop,0
+STU003,TXN10422,14-03-2025,09:29:53,1327.08,Myntra,Fashion & Apparel,Bangalore,Net Banking,Desktop,0
+STU003,TXN10423,15-05-2025,13:51:02,1194.91,Dominos,General Retail,Chennai,Net Banking,Mobile,0
+STU003,TXN10424,22-12-2024,15:02:29,1861.05,BookMyShow,Entertainment,Nashik,UPI,Mobile,0
+STU003,TXN10425,14-01-2025,12:41:03,894.67,Amazon,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10426,15-10-2024,06:46:31,2535.58,Amazon,E-commerce,Nashik,Credit Card,Mobile,0
+STU003,TXN10427,22-04-2025,17:35:19,2868.68,Uber,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10428,07-09-2025,14:30:51,839.55,Ola,Transport Services,Pune,UPI,Mobile,0
+STU003,TXN10429,02-08-2025,10:20:59,1753.95,Swiggy,Food Delivery,Ahmedabad,UPI,Mobile,0
+STU003,TXN10430,04-02-2025,18:05:17,962.47,Ola,Transport Services,Hyderabad,UPI,Mobile,0
+STU003,TXN10431,06-09-2025,14:17:31,540.07,Myntra,Fashion & Apparel,Indore,UPI,Mobile,0
+STU003,TXN10432,30-12-2024,17:12:19,1469.28,IRCTC,General Retail,Pune,Debit Card,Mobile,0
+STU003,TXN10433,29-01-2025,23:04:59,2595.8,Flipkart,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10434,23-02-2025,06:59:26,1747.77,Dominos,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10435,30-04-2025,06:23:07,2096.02,Amazon,E-commerce,Pune,UPI,Mobile,1
+STU003,TXN10436,21-03-2025,09:11:45,2076.55,Paytm,Digital Payments,Bangalore,UPI,Mobile,0
+STU003,TXN10437,04-11-2024,09:55:52,252.29,Amazon,E-commerce,Nagpur,UPI,Mobile,0
+STU003,TXN10438,18-08-2025,01:11:51,1212.09,BookMyShow,Entertainment,Bangalore,UPI,Mobile,0
+STU003,TXN10439,31-07-2025,16:21:18,1296.88,IRCTC,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10440,09-08-2025,10:55:55,584.43,Amazon,E-commerce,Bangalore,UPI,Mobile,0
+STU003,TXN10441,24-05-2025,12:45:43,2177.09,Ola,Transport Services,Pune,UPI,Mobile,0
+STU003,TXN10442,13-03-2025,00:47:41,1583.09,Ola,Transport Services,Nashik,Net Banking,Mobile,0
+STU003,TXN10443,06-06-2025,07:52:20,286.19,Dominos,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10444,13-02-2025,12:29:43,1449.75,BookMyShow,Entertainment,Indore,UPI,Desktop,0
+STU003,TXN10445,09-08-2025,08:16:11,649.43,Amazon,E-commerce,Ahmedabad,UPI,Mobile,0
+STU003,TXN10446,05-07-2025,22:53:56,991.63,Swiggy,Food Delivery,Bangalore,UPI,Mobile,0
+STU003,TXN10447,11-04-2025,06:54:03,1221.19,Swiggy,Food Delivery,Chennai,UPI,Mobile,0
+STU003,TXN10448,07-09-2025,09:14:47,864.89,Swiggy,Food Delivery,Hyderabad,Net Banking,Mobile,0
+STU003,TXN10449,13-01-2025,19:15:01,2920.01,Amazon,E-commerce,Indore,UPI,Mobile,0
+STU003,TXN10450,24-08-2025,20:18:58,2739.71,Swiggy,Food Delivery,Mumbai,UPI,Mobile,0
+STU003,TXN10451,18-09-2025,04:41:54,2025.25,Uber,General Retail,Delhi,Net Banking,Mobile,0
+STU003,TXN10452,03-08-2025,09:17:04,1569.54,Zomato,Food Delivery,Nagpur,UPI,Mobile,0
+STU003,TXN10453,22-08-2025,14:26:15,2580.54,Myntra,Fashion & Apparel,Hyderabad,UPI,Mobile,0
+STU003,TXN10454,29-03-2025,19:46:23,2945.32,Uber,General Retail,Pune,UPI,Mobile,0
+STU003,TXN10455,22-07-2025,10:26:13,1024.93,Ola,Transport Services,Hyderabad,Net Banking,Mobile,0
+STU003,TXN10456,01-01-2025,11:17:42,2595.68,BookMyShow,Entertainment,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10457,25-05-2025,06:30:04,1877.48,Ola,Transport Services,Hyderabad,UPI,Mobile,0
+STU003,TXN10458,10-02-2025,06:16:18,1194.71,Myntra,Fashion & Apparel,Nagpur,Debit Card,Mobile,0
+STU003,TXN10459,06-01-2025,04:20:38,2839.23,Amazon,E-commerce,Indore,Credit Card,Mobile,0
+STU003,TXN10460,14-08-2025,12:02:13,796.65,Paytm,Digital Payments,Pune,Debit Card,Desktop,0
+STU003,TXN10461,21-01-2025,05:08:01,1985.92,Zomato,Food Delivery,Mumbai,UPI,Mobile,0
+STU003,TXN10462,14-04-2025,07:25:40,1125.09,Swiggy,Food Delivery,Delhi,UPI,Mobile,0
+STU003,TXN10463,18-03-2025,19:01:45,1971.7,IRCTC,General Retail,Indore,Debit Card,Mobile,0
+STU003,TXN10464,30-03-2025,11:09:10,855.31,BookMyShow,Entertainment,Ahmedabad,UPI,Desktop,0
+STU003,TXN10465,30-09-2025,10:22:54,1625.24,Paytm,Digital Payments,Indore,UPI,Mobile,0
+STU003,TXN10466,20-06-2025,08:31:37,456.67,Swiggy,Food Delivery,Nashik,Debit Card,Desktop,0
+STU003,TXN10467,25-04-2025,21:37:18,2806.83,Swiggy,Food Delivery,Ahmedabad,UPI,Mobile,0
+STU003,TXN10468,23-06-2025,20:25:43,889.9,Flipkart,E-commerce,Hyderabad,UPI,Mobile,0
+STU003,TXN10469,18-10-2024,21:11:58,550.95,Amazon,E-commerce,Ahmedabad,Credit Card,Mobile,0
+STU003,TXN10470,02-01-2025,12:03:59,1357.74,BookMyShow,Entertainment,Delhi,Debit Card,Mobile,0
+STU003,TXN10471,01-12-2024,02:24:40,265.3,Uber,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10472,17-11-2024,04:51:01,1492.97,Dominos,General Retail,Chennai,UPI,Desktop,0
+STU003,TXN10473,12-04-2025,05:33:07,845.71,Swiggy,Food Delivery,Nashik,Net Banking,Mobile,0
+STU003,TXN10474,19-09-2025,15:48:58,635.51,BigBasket,General Retail,Mumbai,UPI,Mobile,0
+STU003,TXN10475,24-03-2025,00:29:28,666.74,BigBasket,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10476,08-06-2025,11:29:48,979.74,IRCTC,General Retail,Indore,Debit Card,Desktop,0
+STU003,TXN10477,03-08-2025,12:37:59,658.49,IRCTC,General Retail,Chennai,Debit Card,Mobile,0
+STU003,TXN10478,01-03-2025,16:46:16,1679.84,BookMyShow,Entertainment,Mumbai,Credit Card,Desktop,0
+STU003,TXN10479,28-06-2025,02:30:27,2529.63,BookMyShow,Entertainment,Nashik,Credit Card,Mobile,0
+STU003,TXN10480,04-11-2024,11:00:00,2682.43,Paytm,Digital Payments,Nagpur,UPI,Mobile,0
+STU003,TXN10481,30-10-2024,15:50:53,1911.67,BookMyShow,Entertainment,Delhi,Net Banking,Mobile,0
+STU003,TXN10482,20-03-2025,16:38:37,400.0,Zomato,Food Delivery,Mumbai,Debit Card,Mobile,0
+STU003,TXN10483,17-06-2025,11:22:38,371.16,IRCTC,General Retail,Nagpur,Debit Card,Desktop,0
+STU003,TXN10484,22-07-2025,18:08:53,1930.97,Myntra,Fashion & Apparel,Pune,UPI,Mobile,0
+STU003,TXN10485,04-04-2025,17:42:42,1461.8,Paytm,Digital Payments,Pune,Net Banking,Mobile,0
+STU003,TXN10486,15-04-2025,21:39:09,1298.44,IRCTC,General Retail,Hyderabad,Debit Card,Desktop,0
+STU003,TXN10487,24-01-2025,04:19:35,1582.87,Zomato,Food Delivery,Indore,UPI,Mobile,0
+STU003,TXN10488,10-09-2025,21:05:20,1074.93,Ola,Transport Services,Mumbai,UPI,Mobile,0
+STU003,TXN10489,27-11-2024,21:55:06,1301.27,IRCTC,General Retail,Hyderabad,Credit Card,Desktop,0
+STU003,TXN10490,29-04-2025,22:07:58,530.05,Uber,General Retail,Hyderabad,UPI,Desktop,0
+STU003,TXN10491,13-10-2024,23:54:11,2739.19,Dominos,General Retail,Delhi,Net Banking,Mobile,0
+STU003,TXN10492,12-03-2025,18:15:06,2817.29,Amazon,E-commerce,Nagpur,UPI,Desktop,0
+STU003,TXN10493,04-02-2025,09:12:10,224.13,Uber,General Retail,Ahmedabad,UPI,Mobile,1
+STU003,TXN10494,23-07-2025,20:07:36,347.62,Amazon,E-commerce,Chennai,Credit Card,Mobile,0
+STU003,TXN10495,19-05-2025,18:02:45,2454.76,Dominos,General Retail,Indore,Debit Card,Mobile,0
+STU003,TXN10496,03-05-2025,20:30:07,1385.98,BigBasket,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10497,01-09-2025,10:32:53,644.38,BigBasket,General Retail,Nagpur,Credit Card,Desktop,0
+STU003,TXN10498,19-07-2025,04:02:24,203.01,Amazon,E-commerce,Indore,UPI,Desktop,0
+STU003,TXN10499,14-10-2024,16:29:50,76.34,Uber,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10500,02-12-2024,10:31:05,287.64,Zomato,Food Delivery,Bangalore,UPI,Mobile,0
+STU003,TXN10501,19-08-2025,02:32:05,396.19,Amazon,E-commerce,Hyderabad,UPI,Mobile,0
+STU003,TXN10502,20-08-2025,09:30:16,425.56,BookMyShow,Entertainment,Chennai,Debit Card,Desktop,0
+STU003,TXN10503,25-06-2025,06:02:14,600.06,Ola,Transport Services,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10504,18-01-2025,16:10:58,1404.0,Uber,General Retail,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10505,28-05-2025,18:52:41,2122.64,Amazon,E-commerce,Chennai,UPI,Mobile,1
+STU003,TXN10506,22-06-2025,20:10:05,985.74,BigBasket,General Retail,Indore,Debit Card,Mobile,1
+STU003,TXN10507,23-04-2025,20:45:14,652.11,BigBasket,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10508,14-06-2025,09:51:38,468.86,Dominos,General Retail,Mumbai,Net Banking,Mobile,1
+STU003,TXN10509,08-01-2025,15:39:52,136.28,Ola,Transport Services,Nagpur,Debit Card,Mobile,0
+STU003,TXN10510,26-08-2025,19:05:13,917.28,Myntra,Fashion & Apparel,Pune,UPI,Mobile,1
+STU003,TXN10511,15-09-2025,00:19:16,492.69,Ola,Transport Services,Bangalore,Debit Card,Mobile,0
+STU003,TXN10512,21-02-2025,13:10:00,251.39,Paytm,Digital Payments,Chennai,UPI,Mobile,0
+STU003,TXN10513,01-11-2024,17:04:55,2006.79,Ola,Transport Services,Ahmedabad,UPI,Mobile,0
+STU003,TXN10514,11-05-2025,16:22:11,2551.08,Myntra,Fashion & Apparel,Chennai,UPI,Mobile,0
+STU003,TXN10515,06-03-2025,04:46:04,358.67,Ola,Transport Services,Chennai,UPI,Mobile,0
+STU003,TXN10516,03-01-2025,12:28:21,2269.23,Swiggy,Food Delivery,Pune,UPI,Mobile,0
+STU003,TXN10517,24-01-2025,15:19:17,2021.2,Paytm,Digital Payments,Nashik,UPI,Mobile,0
+STU003,TXN10518,16-07-2025,23:08:41,1902.88,IRCTC,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10519,09-05-2025,10:06:20,2707.4,Flipkart,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10520,31-10-2024,05:10:07,2947.68,BigBasket,General Retail,Hyderabad,Credit Card,Mobile,0
+STU003,TXN10521,21-04-2025,12:36:10,991.25,BookMyShow,Entertainment,Delhi,Debit Card,Mobile,0
+STU003,TXN10522,12-01-2025,23:47:43,681.68,Uber,General Retail,Mumbai,Debit Card,Mobile,0
+STU003,TXN10523,04-02-2025,22:11:06,2010.73,Uber,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10524,19-07-2025,03:45:04,636.14,Ola,Transport Services,Indore,Net Banking,Mobile,0
+STU003,TXN10525,28-06-2025,02:45:48,1574.84,IRCTC,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10526,01-06-2025,05:45:11,864.21,Ola,Transport Services,Indore,UPI,Mobile,0
+STU003,TXN10527,15-12-2024,21:33:17,513.79,Amazon,E-commerce,Chennai,UPI,Mobile,0
+STU003,TXN10528,03-04-2025,18:59:51,2615.67,Myntra,Fashion & Apparel,Ahmedabad,UPI,Mobile,0
+STU003,TXN10529,30-08-2025,14:59:49,2949.65,Paytm,Digital Payments,Nagpur,Net Banking,Mobile,0
+STU003,TXN10530,07-09-2025,23:07:36,786.56,IRCTC,General Retail,Mumbai,UPI,Desktop,1
+STU003,TXN10531,17-03-2025,03:30:26,2581.44,Dominos,General Retail,Indore,UPI,Desktop,0
+STU003,TXN10532,29-03-2025,16:12:31,1410.95,Uber,General Retail,Indore,Net Banking,Mobile,0
+STU003,TXN10533,21-05-2025,20:27:15,2321.42,BookMyShow,Entertainment,Bangalore,UPI,Mobile,0
+STU003,TXN10534,27-04-2025,23:09:51,2099.18,Ola,Transport Services,Nagpur,UPI,Mobile,0
+STU003,TXN10535,28-04-2025,08:02:46,570.33,Paytm,Digital Payments,Indore,UPI,Mobile,0
+STU003,TXN10536,09-11-2024,09:17:12,2154.81,Dominos,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10537,15-02-2025,17:19:19,1825.18,BookMyShow,Entertainment,Indore,Debit Card,Mobile,0
+STU003,TXN10538,25-02-2025,17:21:00,336.55,Ola,Transport Services,Pune,UPI,Mobile,0
+STU003,TXN10539,10-10-2025,12:06:42,1105.7,Dominos,General Retail,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10540,05-06-2025,09:32:35,91.38,Paytm,Digital Payments,Delhi,UPI,Mobile,0
+STU003,TXN10541,10-02-2025,01:40:12,2212.07,Amazon,E-commerce,Nagpur,UPI,Mobile,0
+STU003,TXN10542,03-03-2025,02:56:04,1163.18,Flipkart,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10543,01-10-2025,22:35:48,2255.93,Swiggy,Food Delivery,Mumbai,Debit Card,Mobile,0
+STU003,TXN10544,22-02-2025,18:35:12,858.87,Amazon,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10545,03-11-2024,07:41:22,2139.58,Ola,Transport Services,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10546,14-01-2025,00:28:30,2046.56,BookMyShow,Entertainment,Pune,UPI,Desktop,0
+STU003,TXN10547,18-10-2024,21:43:46,162.79,BookMyShow,Entertainment,Chennai,Net Banking,Mobile,0
+STU003,TXN10548,04-04-2025,12:35:50,573.6,Swiggy,Food Delivery,Indore,UPI,Mobile,0
+STU003,TXN10549,30-04-2025,10:54:55,2862.42,Zomato,Food Delivery,Chennai,UPI,Mobile,0
+STU003,TXN10550,02-08-2025,03:33:03,1449.13,Ola,Transport Services,Indore,Debit Card,Mobile,0
+STU003,TXN10551,16-04-2025,17:21:58,1072.28,Uber,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10552,30-01-2025,21:26:32,2480.46,Swiggy,Food Delivery,Hyderabad,Credit Card,Mobile,0
+STU003,TXN10553,20-07-2025,17:15:29,1269.48,Ola,Transport Services,Delhi,Credit Card,Mobile,1
+STU003,TXN10554,09-05-2025,11:24:38,87.65,Paytm,Digital Payments,Chennai,UPI,Mobile,0
+STU003,TXN10555,04-05-2025,00:31:14,2415.09,Dominos,General Retail,Chennai,Debit Card,Mobile,0
+STU003,TXN10556,01-05-2025,06:20:57,2422.31,Myntra,Fashion & Apparel,Hyderabad,Net Banking,Mobile,0
+STU003,TXN10557,02-02-2025,12:18:20,50.93,Swiggy,Food Delivery,Nashik,Net Banking,Mobile,0
+STU003,TXN10558,06-05-2025,21:41:34,1751.65,Paytm,Digital Payments,Delhi,UPI,Mobile,0
+STU003,TXN10559,28-08-2025,16:40:51,2542.78,Ola,Transport Services,Delhi,UPI,Mobile,0
+STU003,TXN10560,21-11-2024,21:54:15,881.66,Myntra,Fashion & Apparel,Mumbai,UPI,Mobile,0
+STU003,TXN10561,28-05-2025,01:14:06,349.24,Flipkart,E-commerce,Nagpur,Credit Card,Mobile,0
+STU003,TXN10562,12-12-2024,18:41:47,1293.59,Ola,Transport Services,Nagpur,UPI,Mobile,0
+STU003,TXN10563,22-05-2025,23:08:36,2824.48,Zomato,Food Delivery,Ahmedabad,Credit Card,Mobile,0
+STU003,TXN10564,11-04-2025,11:34:19,1680.18,Dominos,General Retail,Mumbai,Debit Card,Mobile,0
+STU003,TXN10565,26-02-2025,00:44:36,2993.86,Dominos,General Retail,Nashik,Debit Card,Mobile,0
+STU003,TXN10566,17-04-2025,05:56:25,346.88,Myntra,Fashion & Apparel,Mumbai,UPI,Mobile,1
+STU003,TXN10567,25-08-2025,15:22:57,1327.8,Paytm,Digital Payments,Delhi,Net Banking,Mobile,0
+STU003,TXN10568,24-05-2025,04:56:45,822.83,BigBasket,General Retail,Indore,Credit Card,Mobile,0
+STU003,TXN10569,05-07-2025,17:53:10,2801.97,Flipkart,E-commerce,Nagpur,UPI,Mobile,0
+STU003,TXN10570,23-08-2025,19:32:20,2298.24,BigBasket,General Retail,Chennai,Net Banking,Mobile,0
+STU003,TXN10571,01-12-2024,01:33:55,2902.05,Ola,Transport Services,Indore,UPI,Desktop,0
+STU003,TXN10572,19-05-2025,00:37:45,535.73,Ola,Transport Services,Hyderabad,Net Banking,Mobile,0
+STU003,TXN10573,16-01-2025,15:36:00,408.74,BookMyShow,Entertainment,Hyderabad,UPI,Mobile,0
+STU003,TXN10574,24-07-2025,10:38:20,1502.76,IRCTC,General Retail,Indore,Debit Card,Mobile,0
+STU003,TXN10575,14-12-2024,12:58:32,126.84,Uber,General Retail,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10576,19-04-2025,08:06:42,708.54,Zomato,Food Delivery,Mumbai,UPI,Mobile,0
+STU003,TXN10577,27-09-2025,20:43:16,1526.5,Myntra,Fashion & Apparel,Nashik,Debit Card,Mobile,0
+STU003,TXN10578,13-05-2025,21:03:31,2402.22,Amazon,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10579,19-06-2025,10:03:00,1020.71,IRCTC,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10580,03-12-2024,14:42:31,1622.09,Dominos,General Retail,Mumbai,Net Banking,Mobile,0
+STU003,TXN10581,06-07-2025,04:30:59,2023.49,Swiggy,Food Delivery,Indore,UPI,Desktop,0
+STU003,TXN10582,10-10-2025,15:50:48,2505.89,Dominos,General Retail,Chennai,Credit Card,Mobile,0
+STU003,TXN10583,01-09-2025,10:07:07,2255.66,Uber,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10584,12-06-2025,02:57:23,723.6,BookMyShow,Entertainment,Mumbai,UPI,Mobile,0
+STU003,TXN10585,10-11-2024,02:06:27,414.55,Flipkart,E-commerce,Chennai,Net Banking,Mobile,0
+STU003,TXN10586,21-06-2025,02:19:59,442.33,Amazon,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10587,11-01-2025,23:39:28,2944.22,BookMyShow,Entertainment,Mumbai,UPI,Mobile,0
+STU003,TXN10588,22-04-2025,00:35:34,2444.41,Ola,Transport Services,Indore,UPI,Mobile,0
+STU003,TXN10589,17-10-2024,04:04:35,730.94,Amazon,E-commerce,Delhi,UPI,Mobile,0
+STU003,TXN10590,18-06-2025,17:39:31,307.33,Ola,Transport Services,Nashik,UPI,Mobile,0
+STU003,TXN10591,18-11-2024,08:24:12,1516.5,Paytm,Digital Payments,Chennai,UPI,Mobile,0
+STU003,TXN10592,09-03-2025,10:58:55,584.18,Ola,Transport Services,Pune,UPI,Mobile,1
+STU003,TXN10593,30-12-2024,02:17:24,303.39,BigBasket,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10594,07-12-2024,00:07:37,1878.93,IRCTC,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10595,07-03-2025,10:21:00,2253.74,Ola,Transport Services,Chennai,Net Banking,Mobile,0
+STU003,TXN10596,04-06-2025,15:32:26,1121.28,Myntra,Fashion & Apparel,Hyderabad,UPI,Mobile,0
+STU003,TXN10597,23-08-2025,05:37:51,1804.8,Flipkart,E-commerce,Chennai,Net Banking,Mobile,0
+STU003,TXN10598,27-01-2025,13:03:42,2827.47,BigBasket,General Retail,Delhi,UPI,Desktop,0
+STU003,TXN10599,14-07-2025,10:17:44,2636.55,Ola,Transport Services,Nagpur,Debit Card,Mobile,0
+STU003,TXN10600,26-06-2025,04:03:37,1323.62,IRCTC,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10601,02-08-2025,18:06:53,2009.88,Swiggy,Food Delivery,Indore,Debit Card,Mobile,0
+STU003,TXN10602,08-08-2025,05:44:10,2466.49,Zomato,Food Delivery,Chennai,Debit Card,Mobile,0
+STU003,TXN10603,13-12-2024,03:21:46,2949.01,Uber,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10604,22-08-2025,23:28:03,1275.76,Uber,General Retail,Mumbai,UPI,Mobile,0
+STU003,TXN10605,03-01-2025,18:24:16,1591.77,Ola,Transport Services,Delhi,UPI,Mobile,0
+STU003,TXN10606,12-10-2024,18:28:07,1444.3,Ola,Transport Services,Bangalore,Credit Card,Mobile,0
+STU003,TXN10607,29-04-2025,23:19:31,673.47,Amazon,E-commerce,Bangalore,UPI,Desktop,0
+STU003,TXN10608,23-02-2025,07:55:32,1530.27,Zomato,Food Delivery,Bangalore,Debit Card,Desktop,0
+STU003,TXN10609,12-05-2025,05:58:04,2727.28,BookMyShow,Entertainment,Hyderabad,UPI,Mobile,0
+STU003,TXN10610,18-04-2025,06:36:15,1872.78,Zomato,Food Delivery,Nagpur,UPI,Mobile,0
+STU003,TXN10611,23-08-2025,01:45:09,2806.03,IRCTC,General Retail,Delhi,Debit Card,Mobile,0
+STU003,TXN10612,28-09-2025,23:08:54,1211.88,Zomato,Food Delivery,Mumbai,Debit Card,Mobile,0
+STU003,TXN10613,22-12-2024,22:54:11,707.04,Zomato,Food Delivery,Nashik,UPI,Mobile,0
+STU003,TXN10614,17-08-2025,17:03:08,1049.58,Paytm,Digital Payments,Bangalore,UPI,Mobile,0
+STU003,TXN10615,06-08-2025,04:46:15,2648.32,Ola,Transport Services,Mumbai,UPI,Mobile,0
+STU003,TXN10616,18-07-2025,07:52:30,1032.42,Amazon,E-commerce,Ahmedabad,UPI,Mobile,0
+STU003,TXN10617,18-08-2025,12:35:08,298.2,Uber,General Retail,Indore,UPI,Mobile,1
+STU003,TXN10618,24-12-2024,14:43:35,2999.64,Zomato,Food Delivery,Nagpur,Debit Card,Mobile,0
+STU003,TXN10619,15-02-2025,17:13:38,2900.35,Ola,Transport Services,Bangalore,Net Banking,Mobile,0
+STU003,TXN10620,23-06-2025,18:47:47,443.04,Ola,Transport Services,Mumbai,Net Banking,Mobile,0
+STU003,TXN10621,30-04-2025,11:32:40,2162.74,Paytm,Digital Payments,Mumbai,Debit Card,Mobile,0
+STU003,TXN10622,27-08-2025,13:50:11,2176.81,Uber,General Retail,Mumbai,UPI,Mobile,0
+STU003,TXN10623,15-02-2025,22:30:42,2886.53,Dominos,General Retail,Mumbai,Debit Card,Mobile,0
+STU003,TXN10624,18-11-2024,15:07:19,2013.24,Paytm,Digital Payments,Delhi,UPI,Mobile,0
+STU003,TXN10625,08-02-2025,00:43:29,1321.21,BigBasket,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10626,09-06-2025,20:56:20,1255.77,Swiggy,Food Delivery,Bangalore,UPI,Mobile,0
+STU003,TXN10627,05-08-2025,08:39:53,1834.14,Ola,Transport Services,Indore,UPI,Mobile,0
+STU003,TXN10628,15-10-2024,09:52:14,1410.83,Uber,General Retail,Indore,Debit Card,Mobile,0
+STU003,TXN10629,15-09-2025,08:40:23,529.0,Paytm,Digital Payments,Mumbai,UPI,Mobile,0
+STU003,TXN10630,06-08-2025,16:30:05,289.02,IRCTC,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10631,07-10-2025,15:38:34,1567.45,Swiggy,Food Delivery,Pune,UPI,Mobile,0
+STU003,TXN10632,06-10-2025,07:35:55,2860.01,IRCTC,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10633,30-09-2025,21:48:23,976.64,Zomato,Food Delivery,Nashik,Credit Card,Mobile,0
+STU003,TXN10634,12-04-2025,20:29:49,777.69,Flipkart,E-commerce,Nashik,UPI,Desktop,0
+STU003,TXN10635,04-06-2025,02:58:55,345.43,Swiggy,Food Delivery,Delhi,UPI,Desktop,0
+STU003,TXN10636,28-01-2025,09:51:38,1237.71,BigBasket,General Retail,Pune,UPI,Desktop,0
+STU003,TXN10637,04-02-2025,21:58:53,2318.11,Zomato,Food Delivery,Nashik,UPI,Mobile,0
+STU003,TXN10638,01-08-2025,15:49:33,103.53,Uber,General Retail,Delhi,UPI,Desktop,0
+STU003,TXN10639,05-02-2025,12:23:40,2805.04,BigBasket,General Retail,Bangalore,Credit Card,Mobile,0
+STU003,TXN10640,19-07-2025,19:42:56,271.52,Myntra,Fashion & Apparel,Chennai,UPI,Mobile,0
+STU003,TXN10641,29-06-2025,15:10:47,501.8,Myntra,Fashion & Apparel,Nashik,UPI,Mobile,0
+STU003,TXN10642,15-08-2025,09:35:46,2244.02,Myntra,Fashion & Apparel,Bangalore,UPI,Mobile,0
+STU003,TXN10643,09-07-2025,18:24:29,715.01,BookMyShow,Entertainment,Mumbai,UPI,Desktop,0
+STU003,TXN10644,17-11-2024,17:20:32,200.87,Amazon,E-commerce,Chennai,UPI,Mobile,0
+STU003,TXN10645,30-11-2024,17:25:07,1705.75,IRCTC,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10646,08-11-2024,13:03:02,1174.93,Ola,Transport Services,Hyderabad,UPI,Mobile,0
+STU003,TXN10647,25-12-2024,02:55:37,970.24,Swiggy,Food Delivery,Bangalore,Debit Card,Desktop,0
+STU003,TXN10648,31-07-2025,18:18:56,57.04,Zomato,Food Delivery,Nagpur,UPI,Mobile,0
+STU003,TXN10649,29-05-2025,21:02:07,2939.48,Uber,General Retail,Hyderabad,UPI,Mobile,0
+STU003,TXN10650,05-09-2025,03:28:58,2977.98,Dominos,General Retail,Nashik,Debit Card,Mobile,0
+STU003,TXN10651,16-04-2025,03:30:02,2115.87,Flipkart,E-commerce,Chennai,Net Banking,Mobile,0
+STU003,TXN10652,27-10-2024,09:14:52,338.53,Ola,Transport Services,Ahmedabad,Credit Card,Mobile,0
+STU003,TXN10653,27-07-2025,00:48:23,1233.97,BookMyShow,Entertainment,Pune,UPI,Mobile,0
+STU003,TXN10654,16-12-2024,10:52:29,1741.96,Myntra,Fashion & Apparel,Bangalore,UPI,Mobile,0
+STU003,TXN10655,22-05-2025,05:01:05,1556.28,IRCTC,General Retail,Mumbai,UPI,Desktop,0
+STU003,TXN10656,31-10-2024,15:31:16,2778.23,BigBasket,General Retail,Hyderabad,UPI,Mobile,0
+STU003,TXN10657,05-10-2025,15:49:43,2311.07,Dominos,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10658,04-04-2025,14:54:47,563.17,BookMyShow,Entertainment,Delhi,UPI,Desktop,0
+STU003,TXN10659,01-08-2025,14:34:49,1002.8,Flipkart,E-commerce,Nashik,UPI,Desktop,0
+STU003,TXN10660,05-05-2025,16:56:54,667.27,Paytm,Digital Payments,Chennai,UPI,Mobile,0
+STU003,TXN10661,06-03-2025,19:57:10,295.16,IRCTC,General Retail,Chennai,Net Banking,Mobile,0
+STU003,TXN10662,04-12-2024,17:02:43,2898.82,IRCTC,General Retail,Nagpur,Debit Card,Mobile,0
+STU003,TXN10663,07-08-2025,08:39:10,524.27,Amazon,E-commerce,Ahmedabad,Debit Card,Mobile,1
+STU003,TXN10664,04-07-2025,15:25:19,1284.89,Paytm,Digital Payments,Mumbai,Debit Card,Mobile,0
+STU003,TXN10665,06-08-2025,02:17:51,933.37,Dominos,General Retail,Nagpur,Debit Card,Mobile,0
+STU003,TXN10666,20-04-2025,22:54:23,2088.19,Uber,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10667,14-07-2025,23:22:32,1927.02,Amazon,E-commerce,Hyderabad,UPI,Mobile,0
+STU003,TXN10668,30-10-2024,04:41:01,2197.56,Dominos,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10669,14-04-2025,04:50:02,136.65,Paytm,Digital Payments,Indore,UPI,Mobile,0
+STU003,TXN10670,19-02-2025,13:20:02,246.69,BookMyShow,Entertainment,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10671,23-03-2025,20:42:28,2066.34,Uber,General Retail,Pune,UPI,Mobile,0
+STU003,TXN10672,28-03-2025,05:08:45,2188.31,Paytm,Digital Payments,Ahmedabad,Credit Card,Mobile,0
+STU003,TXN10673,15-07-2025,05:25:04,2735.32,BookMyShow,Entertainment,Ahmedabad,Net Banking,Mobile,0
+STU003,TXN10674,06-03-2025,17:10:18,254.68,Myntra,Fashion & Apparel,Nashik,Debit Card,Mobile,0
+STU003,TXN10675,07-06-2025,02:38:45,250.22,Ola,Transport Services,Delhi,Debit Card,Desktop,0
+STU003,TXN10676,15-03-2025,11:38:42,1945.52,Flipkart,E-commerce,Hyderabad,Net Banking,Mobile,0
+STU003,TXN10677,04-10-2025,02:59:19,851.58,Myntra,Fashion & Apparel,Nagpur,UPI,Mobile,0
+STU003,TXN10678,05-01-2025,18:20:15,1256.56,Flipkart,E-commerce,Chennai,Debit Card,Mobile,0
+STU003,TXN10679,27-08-2025,00:34:57,1879.39,BookMyShow,Entertainment,Ahmedabad,Debit Card,Desktop,0
+STU003,TXN10680,25-08-2025,08:39:04,600.1,Ola,Transport Services,Indore,UPI,Mobile,0
+STU003,TXN10681,07-11-2024,08:06:48,2947.29,Myntra,Fashion & Apparel,Delhi,Net Banking,Desktop,0
+STU003,TXN10682,19-11-2024,11:30:31,947.37,Uber,General Retail,Chennai,Debit Card,Mobile,0
+STU003,TXN10683,18-10-2024,03:57:23,1600.49,Uber,General Retail,Bangalore,Debit Card,Mobile,0
+STU003,TXN10684,03-07-2025,22:44:22,2911.73,IRCTC,General Retail,Mumbai,Net Banking,Mobile,0
+STU003,TXN10685,12-08-2025,22:41:56,1228.73,Uber,General Retail,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10686,03-09-2025,11:53:44,266.48,Paytm,Digital Payments,Indore,UPI,Mobile,0
+STU003,TXN10687,04-05-2025,03:32:29,1729.74,Uber,General Retail,Indore,Debit Card,Mobile,0
+STU003,TXN10688,01-10-2025,11:58:11,882.61,Swiggy,Food Delivery,Indore,UPI,Mobile,0
+STU003,TXN10689,22-07-2025,09:24:56,2728.05,Paytm,Digital Payments,Pune,Debit Card,Mobile,0
+STU003,TXN10690,14-01-2025,16:35:30,739.64,BookMyShow,Entertainment,Indore,UPI,Mobile,0
+STU003,TXN10691,02-04-2025,03:46:17,1445.33,Ola,Transport Services,Delhi,Credit Card,Desktop,0
+STU003,TXN10692,27-04-2025,01:57:04,1438.06,Paytm,Digital Payments,Nagpur,UPI,Mobile,0
+STU003,TXN10693,12-05-2025,22:35:39,1263.98,Zomato,Food Delivery,Pune,Debit Card,Mobile,0
+STU003,TXN10694,23-07-2025,19:48:17,1505.15,Paytm,Digital Payments,Nagpur,UPI,Mobile,0
+STU003,TXN10695,27-08-2025,22:31:30,2601.9,BigBasket,General Retail,Mumbai,Net Banking,Mobile,0
+STU003,TXN10696,13-02-2025,16:56:58,1955.2,Myntra,Fashion & Apparel,Ahmedabad,UPI,Mobile,0
+STU003,TXN10697,11-11-2024,05:07:19,1550.43,Flipkart,E-commerce,Ahmedabad,UPI,Mobile,0
+STU003,TXN10698,29-10-2024,07:01:15,1740.39,Amazon,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10699,22-09-2025,04:34:14,1926.98,Swiggy,Food Delivery,Hyderabad,UPI,Mobile,0
+STU003,TXN10700,26-05-2025,00:15:38,313.42,Flipkart,E-commerce,Delhi,UPI,Desktop,0
+STU003,TXN10701,06-11-2024,04:24:05,1568.38,Flipkart,E-commerce,Bangalore,UPI,Mobile,0
+STU003,TXN10702,10-12-2024,11:53:54,1351.9,Zomato,Food Delivery,Chennai,Debit Card,Mobile,1
+STU003,TXN10703,09-10-2025,00:32:19,1374.84,Swiggy,Food Delivery,Ahmedabad,UPI,Mobile,0
+STU003,TXN10704,02-03-2025,16:48:40,817.98,Uber,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10705,22-01-2025,15:39:49,434.81,Uber,General Retail,Pune,UPI,Desktop,0
+STU003,TXN10706,22-03-2025,12:36:07,65.84,BookMyShow,Entertainment,Nagpur,Debit Card,Mobile,0
+STU003,TXN10707,21-05-2025,20:11:12,1550.37,BookMyShow,Entertainment,Ahmedabad,UPI,Mobile,0
+STU003,TXN10708,22-10-2024,04:01:49,682.79,IRCTC,General Retail,Mumbai,Debit Card,Mobile,0
+STU003,TXN10709,07-12-2024,21:19:46,644.31,Paytm,Digital Payments,Bangalore,Net Banking,Mobile,0
+STU003,TXN10710,15-04-2025,18:44:26,217.81,IRCTC,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10711,05-07-2025,08:43:46,429.68,Dominos,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10712,14-02-2025,06:30:48,1625.06,Zomato,Food Delivery,Nashik,UPI,Mobile,0
+STU003,TXN10713,21-10-2024,11:18:30,511.41,Amazon,E-commerce,Pune,Credit Card,Mobile,0
+STU003,TXN10714,24-07-2025,02:54:11,1365.08,Dominos,General Retail,Nashik,Debit Card,Mobile,0
+STU003,TXN10715,20-03-2025,11:52:30,1801.45,IRCTC,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10716,22-07-2025,11:28:39,914.8,Dominos,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10717,21-07-2025,03:10:51,2772.23,Paytm,Digital Payments,Nashik,UPI,Mobile,0
+STU003,TXN10718,01-11-2024,00:41:06,2990.28,Paytm,Digital Payments,Ahmedabad,UPI,Mobile,0
+STU003,TXN10719,31-08-2025,23:46:42,59.11,Uber,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10720,17-03-2025,03:35:33,1571.63,Paytm,Digital Payments,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10721,06-04-2025,23:38:25,2477.86,Amazon,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10722,25-05-2025,11:32:27,213.97,Dominos,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10723,13-03-2025,11:58:43,1377.28,Ola,Transport Services,Indore,UPI,Mobile,0
+STU003,TXN10724,08-01-2025,08:24:34,80.69,Myntra,Fashion & Apparel,Bangalore,UPI,Mobile,0
+STU003,TXN10725,15-11-2024,20:03:01,2963.07,Flipkart,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10726,30-06-2025,14:30:49,996.6,Flipkart,E-commerce,Nashik,UPI,Mobile,0
+STU003,TXN10727,11-12-2024,11:35:23,1636.92,IRCTC,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10728,24-06-2025,08:00:46,2366.62,Myntra,Fashion & Apparel,Delhi,Debit Card,Mobile,0
+STU003,TXN10729,14-05-2025,03:37:10,1104.42,BookMyShow,Entertainment,Chennai,Debit Card,Mobile,0
+STU003,TXN10730,09-08-2025,10:08:06,162.37,Myntra,Fashion & Apparel,Pune,Debit Card,Mobile,0
+STU003,TXN10731,18-05-2025,12:54:07,1721.61,Swiggy,Food Delivery,Indore,Debit Card,Desktop,0
+STU003,TXN10732,18-04-2025,09:11:38,1841.54,Uber,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10733,29-11-2024,08:46:09,2544.37,Swiggy,Food Delivery,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10734,26-11-2024,18:03:59,2231.23,Ola,Transport Services,Chennai,Debit Card,Mobile,0
+STU003,TXN10735,15-07-2025,22:31:42,1416.57,Myntra,Fashion & Apparel,Bangalore,UPI,Mobile,0
+STU003,TXN10736,18-07-2025,21:51:30,494.72,Flipkart,E-commerce,Ahmedabad,Net Banking,Mobile,0
+STU003,TXN10737,12-07-2025,10:52:12,235.57,BigBasket,General Retail,Bangalore,Credit Card,Mobile,0
+STU003,TXN10738,13-09-2025,07:36:27,730.21,BigBasket,General Retail,Mumbai,UPI,Desktop,0
+STU003,TXN10739,05-04-2025,22:22:32,939.05,BigBasket,General Retail,Pune,Debit Card,Desktop,0
+STU003,TXN10740,28-07-2025,08:53:38,2671.56,Dominos,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10741,29-09-2025,02:47:53,619.31,Flipkart,E-commerce,Nashik,UPI,Mobile,0
+STU003,TXN10742,22-10-2024,05:17:04,988.07,Dominos,General Retail,Hyderabad,Credit Card,Desktop,0
+STU003,TXN10743,27-10-2024,17:43:56,256.1,BigBasket,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10744,29-10-2024,18:50:45,334.29,Amazon,E-commerce,Delhi,UPI,Desktop,0
+STU003,TXN10745,02-07-2025,19:11:39,2973.57,Paytm,Digital Payments,Nagpur,UPI,Desktop,0
+STU003,TXN10746,09-07-2025,20:06:30,1739.76,Amazon,E-commerce,Bangalore,Net Banking,Mobile,0
+STU003,TXN10747,24-12-2024,18:13:42,2971.42,Flipkart,E-commerce,Indore,UPI,Mobile,0
+STU003,TXN10748,29-06-2025,05:19:00,104.08,Uber,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10749,09-05-2025,14:36:01,947.54,Zomato,Food Delivery,Indore,Credit Card,Mobile,0
+STU003,TXN10750,21-07-2025,20:48:04,1167.43,Amazon,E-commerce,Indore,UPI,Mobile,0
+STU003,TXN10751,30-12-2024,20:37:56,2044.57,IRCTC,General Retail,Indore,Credit Card,Mobile,0
+STU003,TXN10752,13-04-2025,07:10:52,547.64,BookMyShow,Entertainment,Nashik,UPI,Mobile,0
+STU003,TXN10753,16-12-2024,14:22:34,648.12,Ola,Transport Services,Chennai,UPI,Mobile,1
+STU003,TXN10754,17-10-2024,22:02:29,911.78,Dominos,General Retail,Bangalore,UPI,Desktop,0
+STU003,TXN10755,21-04-2025,12:00:33,2652.43,BookMyShow,Entertainment,Ahmedabad,Credit Card,Mobile,0
+STU003,TXN10756,01-04-2025,15:10:49,2162.75,Dominos,General Retail,Delhi,Credit Card,Mobile,0
+STU003,TXN10757,31-08-2025,20:29:29,1361.55,Ola,Transport Services,Hyderabad,Credit Card,Mobile,0
+STU003,TXN10758,12-11-2024,01:55:22,2485.58,IRCTC,General Retail,Nashik,UPI,Desktop,0
+STU003,TXN10759,09-07-2025,09:26:17,1440.29,Uber,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10760,19-03-2025,14:08:57,2969.22,Amazon,E-commerce,Bangalore,Debit Card,Mobile,0
+STU003,TXN10761,30-07-2025,07:51:39,2387.34,Swiggy,Food Delivery,Pune,Debit Card,Mobile,0
+STU003,TXN10762,14-12-2024,02:17:26,250.14,IRCTC,General Retail,Mumbai,UPI,Mobile,1
+STU003,TXN10763,03-04-2025,22:22:21,1715.07,Zomato,Food Delivery,Ahmedabad,Net Banking,Mobile,0
+STU003,TXN10764,19-09-2025,16:17:00,273.59,BigBasket,General Retail,Bangalore,Credit Card,Mobile,0
+STU003,TXN10765,03-06-2025,22:54:02,270.17,Zomato,Food Delivery,Pune,UPI,Mobile,0
+STU003,TXN10766,08-01-2025,12:47:59,112.42,Uber,General Retail,Mumbai,Net Banking,Mobile,0
+STU003,TXN10767,10-10-2025,09:10:32,2516.65,IRCTC,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10768,22-05-2025,06:23:32,1226.22,Flipkart,E-commerce,Nashik,UPI,Mobile,0
+STU003,TXN10769,27-09-2025,17:17:31,1356.78,Paytm,Digital Payments,Nashik,Debit Card,Desktop,0
+STU003,TXN10770,02-05-2025,18:27:15,1647.31,Ola,Transport Services,Delhi,Credit Card,Mobile,0
+STU003,TXN10771,18-09-2025,20:51:09,1041.45,Zomato,Food Delivery,Ahmedabad,Net Banking,Mobile,0
+STU003,TXN10772,14-04-2025,11:38:12,2277.16,IRCTC,General Retail,Mumbai,Debit Card,Mobile,0
+STU003,TXN10773,27-08-2025,23:26:27,996.45,Myntra,Fashion & Apparel,Ahmedabad,UPI,Mobile,0
+STU003,TXN10774,05-09-2025,07:33:09,2638.85,Dominos,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10775,20-11-2024,17:45:30,300.36,Ola,Transport Services,Ahmedabad,UPI,Mobile,0
+STU003,TXN10776,08-11-2024,12:46:31,1175.85,Ola,Transport Services,Indore,Debit Card,Mobile,0
+STU003,TXN10777,26-10-2024,03:56:45,2005.37,Paytm,Digital Payments,Indore,UPI,Mobile,0
+STU003,TXN10778,09-02-2025,05:43:23,822.24,Dominos,General Retail,Mumbai,UPI,Desktop,0
+STU003,TXN10779,16-02-2025,11:13:43,1162.52,Amazon,E-commerce,Nagpur,Net Banking,Mobile,0
+STU003,TXN10780,22-11-2024,00:19:29,771.33,Amazon,E-commerce,Hyderabad,Net Banking,Mobile,0
+STU003,TXN10781,23-06-2025,01:47:57,219.9,Myntra,Fashion & Apparel,Nagpur,Net Banking,Desktop,0
+STU003,TXN10782,30-05-2025,19:52:39,219.79,Amazon,E-commerce,Pune,Debit Card,Desktop,0
+STU003,TXN10783,18-01-2025,04:49:19,1085.22,Uber,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10784,13-08-2025,14:22:26,240.27,BigBasket,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10785,22-02-2025,10:19:51,1810.97,BigBasket,General Retail,Hyderabad,UPI,Mobile,0
+STU003,TXN10786,27-10-2024,10:20:38,1166.58,Amazon,E-commerce,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10787,14-01-2025,03:00:11,96.18,IRCTC,General Retail,Pune,UPI,Mobile,0
+STU003,TXN10788,21-07-2025,11:56:44,1849.53,BigBasket,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10789,16-07-2025,14:44:56,833.98,BookMyShow,Entertainment,Chennai,UPI,Mobile,0
+STU003,TXN10790,17-07-2025,09:37:25,166.12,Dominos,General Retail,Nagpur,Debit Card,Mobile,0
+STU003,TXN10791,02-06-2025,03:26:40,666.16,Amazon,E-commerce,Bangalore,Debit Card,Mobile,0
+STU003,TXN10792,30-08-2025,03:48:22,2838.35,Ola,Transport Services,Hyderabad,UPI,Mobile,0
+STU003,TXN10793,16-06-2025,10:06:21,2567.12,Amazon,E-commerce,Ahmedabad,UPI,Desktop,0
+STU003,TXN10794,19-08-2025,11:45:47,1794.75,Dominos,General Retail,Chennai,UPI,Mobile,1
+STU003,TXN10795,25-02-2025,10:12:02,50.3,BookMyShow,Entertainment,Nagpur,UPI,Mobile,0
+STU003,TXN10796,08-10-2025,08:38:41,1562.3,BigBasket,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10797,24-06-2025,21:29:40,2171.27,Paytm,Digital Payments,Hyderabad,UPI,Mobile,0
+STU003,TXN10798,23-08-2025,13:55:57,1955.58,Paytm,Digital Payments,Bangalore,UPI,Mobile,0
+STU003,TXN10799,05-10-2025,08:25:39,2679.78,Dominos,General Retail,Bangalore,Debit Card,Mobile,0
+STU003,TXN10800,06-09-2025,11:57:04,2053.52,Ola,Transport Services,Pune,UPI,Mobile,0
+STU003,TXN10801,22-09-2025,09:41:05,1226.5,Flipkart,E-commerce,Mumbai,Net Banking,Mobile,0
+STU003,TXN10802,21-01-2025,10:02:47,676.58,Uber,General Retail,Hyderabad,UPI,Mobile,0
+STU003,TXN10803,03-12-2024,12:35:25,436.63,Ola,Transport Services,Indore,Credit Card,Mobile,0
+STU003,TXN10804,09-09-2025,22:03:33,2198.97,IRCTC,General Retail,Mumbai,UPI,Mobile,0
+STU003,TXN10805,25-06-2025,19:21:42,658.21,IRCTC,General Retail,Nashik,Debit Card,Mobile,0
+STU003,TXN10806,02-08-2025,07:19:54,2974.08,Zomato,Food Delivery,Hyderabad,UPI,Mobile,0
+STU003,TXN10807,07-08-2025,09:55:51,60.66,Myntra,Fashion & Apparel,Bangalore,Debit Card,Mobile,0
+STU003,TXN10808,19-09-2025,07:57:20,2581.78,Amazon,E-commerce,Nashik,UPI,Mobile,0
+STU003,TXN10809,07-05-2025,01:15:34,1961.84,Flipkart,E-commerce,Nagpur,Net Banking,Mobile,0
+STU003,TXN10810,02-11-2024,08:31:20,725.08,BookMyShow,Entertainment,Mumbai,Debit Card,Mobile,0
+STU003,TXN10811,05-07-2025,20:11:58,507.55,BigBasket,General Retail,Pune,Net Banking,Mobile,0
+STU003,TXN10812,15-01-2025,16:33:22,111.78,Dominos,General Retail,Mumbai,UPI,Mobile,0
+STU003,TXN10813,24-09-2025,06:27:47,2933.5,Ola,Transport Services,Delhi,UPI,Mobile,0
+STU003,TXN10814,14-04-2025,20:52:39,2278.02,Myntra,Fashion & Apparel,Chennai,Debit Card,Mobile,0
+STU003,TXN10815,03-09-2025,07:22:39,236.42,BookMyShow,Entertainment,Indore,Credit Card,Mobile,0
+STU003,TXN10816,02-05-2025,07:48:44,2651.1,Zomato,Food Delivery,Nagpur,Debit Card,Mobile,0
+STU003,TXN10817,05-06-2025,17:43:57,1893.37,Paytm,Digital Payments,Chennai,Net Banking,Mobile,0
+STU003,TXN10818,16-03-2025,23:21:28,1059.79,BookMyShow,Entertainment,Ahmedabad,UPI,Desktop,0
+STU003,TXN10819,10-01-2025,15:40:38,2561.04,Uber,General Retail,Pune,Credit Card,Desktop,0
+STU003,TXN10820,26-06-2025,12:50:49,2857.07,Myntra,Fashion & Apparel,Mumbai,Debit Card,Mobile,0
+STU003,TXN10821,10-07-2025,21:02:10,2624.22,Myntra,Fashion & Apparel,Indore,UPI,Mobile,0
+STU003,TXN10822,18-12-2024,03:02:50,1143.54,Uber,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10823,27-06-2025,18:01:09,2285.19,Myntra,Fashion & Apparel,Mumbai,UPI,Mobile,0
+STU003,TXN10824,13-06-2025,12:25:15,1863.29,Uber,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10825,10-02-2025,14:15:04,1213.45,BigBasket,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10826,18-12-2024,05:18:45,2539.0,Flipkart,E-commerce,Ahmedabad,Net Banking,Mobile,0
+STU003,TXN10827,11-07-2025,12:46:29,424.24,Swiggy,Food Delivery,Nashik,UPI,Mobile,0
+STU003,TXN10828,26-03-2025,13:35:40,2158.19,IRCTC,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10829,03-10-2025,19:36:27,1938.64,Zomato,Food Delivery,Mumbai,Debit Card,Mobile,0
+STU003,TXN10830,26-06-2025,03:27:59,1011.14,IRCTC,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10831,15-08-2025,07:03:19,2033.43,Amazon,E-commerce,Pune,Credit Card,Mobile,0
+STU003,TXN10832,02-01-2025,23:38:05,1394.64,Dominos,General Retail,Nagpur,Net Banking,Mobile,0
+STU003,TXN10833,07-11-2024,11:44:56,569.45,Flipkart,E-commerce,Ahmedabad,UPI,Mobile,0
+STU003,TXN10834,17-10-2024,13:44:38,1646.91,Myntra,Fashion & Apparel,Mumbai,UPI,Mobile,0
+STU003,TXN10835,19-12-2024,13:15:02,1492.15,Zomato,Food Delivery,Indore,Net Banking,Mobile,0
+STU003,TXN10836,29-06-2025,22:44:20,605.67,Uber,General Retail,Nashik,UPI,Desktop,0
+STU003,TXN10837,19-08-2025,13:03:01,2408.94,Uber,General Retail,Nashik,Net Banking,Desktop,0
+STU003,TXN10838,10-03-2025,00:04:44,767.95,Amazon,E-commerce,Nashik,UPI,Desktop,0
+STU003,TXN10839,04-11-2024,08:44:01,2454.7,Swiggy,Food Delivery,Delhi,Debit Card,Mobile,0
+STU003,TXN10840,06-09-2025,00:57:04,495.11,Ola,Transport Services,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10841,05-08-2025,23:11:53,2601.39,Ola,Transport Services,Bangalore,UPI,Desktop,0
+STU003,TXN10842,11-05-2025,03:53:42,2844.45,Flipkart,E-commerce,Bangalore,UPI,Desktop,0
+STU003,TXN10843,02-11-2024,13:28:32,2268.49,Myntra,Fashion & Apparel,Nashik,UPI,Mobile,0
+STU003,TXN10844,02-03-2025,18:34:20,1931.48,Uber,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10845,08-09-2025,16:32:40,2559.7,Uber,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10846,22-05-2025,23:55:08,2461.4,Dominos,General Retail,Nagpur,UPI,Desktop,0
+STU003,TXN10847,20-10-2024,18:36:08,763.5,BigBasket,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10848,17-09-2025,10:49:55,151.58,IRCTC,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10849,29-06-2025,10:00:54,1506.41,Zomato,Food Delivery,Indore,Debit Card,Mobile,0
+STU003,TXN10850,22-05-2025,08:30:02,1215.32,Amazon,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10851,30-01-2025,12:05:34,2666.68,BigBasket,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10852,16-12-2024,18:01:46,2659.86,BigBasket,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10853,06-04-2025,02:49:15,2459.88,Paytm,Digital Payments,Pune,UPI,Desktop,0
+STU003,TXN10854,25-06-2025,17:44:20,1131.65,Swiggy,Food Delivery,Chennai,Debit Card,Mobile,0
+STU003,TXN10855,02-08-2025,21:42:04,1046.92,Flipkart,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10856,18-11-2024,16:26:45,1123.5,Paytm,Digital Payments,Mumbai,UPI,Mobile,0
+STU003,TXN10857,22-07-2025,18:03:41,1164.07,Paytm,Digital Payments,Hyderabad,Credit Card,Desktop,0
+STU003,TXN10858,18-12-2024,04:25:44,1287.28,Dominos,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10859,18-06-2025,15:37:51,2774.27,Zomato,Food Delivery,Ahmedabad,Net Banking,Mobile,0
+STU003,TXN10860,30-08-2025,10:09:37,873.27,Paytm,Digital Payments,Chennai,UPI,Mobile,0
+STU003,TXN10861,25-09-2025,07:02:27,1228.81,Flipkart,E-commerce,Hyderabad,UPI,Mobile,0
+STU003,TXN10862,25-10-2024,03:34:18,1352.44,BookMyShow,Entertainment,Nashik,UPI,Mobile,0
+STU003,TXN10863,10-02-2025,11:40:33,768.76,Amazon,E-commerce,Ahmedabad,UPI,Mobile,0
+STU003,TXN10864,01-01-2025,17:31:51,901.26,Amazon,E-commerce,Bangalore,Debit Card,Mobile,0
+STU003,TXN10865,24-10-2024,09:00:11,65.07,Dominos,General Retail,Chennai,UPI,Desktop,0
+STU003,TXN10866,21-11-2024,23:00:02,2277.0,Swiggy,Food Delivery,Nagpur,Net Banking,Desktop,0
+STU003,TXN10867,21-04-2025,16:00:18,353.25,Swiggy,Food Delivery,Chennai,Debit Card,Mobile,0
+STU003,TXN10868,16-04-2025,12:35:49,810.26,Zomato,Food Delivery,Nagpur,Debit Card,Mobile,0
+STU003,TXN10869,08-03-2025,12:01:38,1570.81,Swiggy,Food Delivery,Pune,UPI,Mobile,0
+STU003,TXN10870,29-01-2025,14:49:26,1079.24,Ola,Transport Services,Chennai,UPI,Mobile,0
+STU003,TXN10871,23-10-2024,15:30:10,1308.95,Myntra,Fashion & Apparel,Delhi,UPI,Mobile,0
+STU003,TXN10872,17-10-2024,20:43:31,960.74,Swiggy,Food Delivery,Mumbai,UPI,Mobile,0
+STU003,TXN10873,16-06-2025,23:28:34,2878.32,BigBasket,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10874,28-11-2024,21:01:09,1369.88,Ola,Transport Services,Nagpur,UPI,Mobile,0
+STU003,TXN10875,23-07-2025,17:40:34,1319.51,Zomato,Food Delivery,Pune,Debit Card,Desktop,0
+STU003,TXN10876,22-06-2025,01:24:06,741.09,IRCTC,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10877,23-09-2025,06:39:19,1700.62,IRCTC,General Retail,Indore,Net Banking,Mobile,0
+STU003,TXN10878,03-09-2025,22:41:10,2532.51,BookMyShow,Entertainment,Indore,Credit Card,Mobile,0
+STU003,TXN10879,14-04-2025,16:07:12,2775.82,BookMyShow,Entertainment,Chennai,Credit Card,Mobile,0
+STU003,TXN10880,04-11-2024,23:31:35,2296.88,Amazon,E-commerce,Delhi,UPI,Desktop,1
+STU003,TXN10881,18-05-2025,17:24:49,2563.16,Flipkart,E-commerce,Bangalore,UPI,Mobile,0
+STU003,TXN10882,10-10-2024,13:37:32,2868.15,Dominos,General Retail,Hyderabad,UPI,Mobile,0
+STU003,TXN10883,05-03-2025,07:56:42,475.67,Myntra,Fashion & Apparel,Bangalore,UPI,Mobile,0
+STU003,TXN10884,02-08-2025,05:14:28,1406.49,BookMyShow,Entertainment,Nagpur,Net Banking,Mobile,0
+STU003,TXN10885,29-11-2024,00:31:18,1955.85,Myntra,Fashion & Apparel,Mumbai,UPI,Mobile,0
+STU003,TXN10886,29-10-2024,01:32:37,2704.78,BookMyShow,Entertainment,Delhi,UPI,Mobile,0
+STU003,TXN10887,06-10-2025,15:51:32,2508.46,Uber,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10888,28-11-2024,00:15:25,807.33,Ola,Transport Services,Delhi,UPI,Mobile,0
+STU003,TXN10889,13-04-2025,15:06:02,1602.03,Zomato,Food Delivery,Nashik,Debit Card,Mobile,0
+STU003,TXN10890,17-01-2025,11:30:46,1127.89,Amazon,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10891,10-05-2025,02:34:16,2031.27,Uber,General Retail,Hyderabad,UPI,Mobile,0
+STU003,TXN10892,12-06-2025,04:18:54,1370.23,Swiggy,Food Delivery,Pune,UPI,Mobile,0
+STU003,TXN10893,19-04-2025,21:57:20,2971.71,BookMyShow,Entertainment,Mumbai,Credit Card,Mobile,0
+STU003,TXN10894,06-11-2024,15:33:13,1380.43,Flipkart,E-commerce,Chennai,Debit Card,Mobile,0
+STU003,TXN10895,11-03-2025,21:26:06,455.71,Amazon,E-commerce,Indore,Net Banking,Mobile,0
+STU003,TXN10896,16-09-2025,17:09:32,2086.52,Dominos,General Retail,Indore,Credit Card,Mobile,0
+STU003,TXN10897,29-10-2024,01:38:50,2353.47,Myntra,Fashion & Apparel,Hyderabad,UPI,Mobile,0
+STU003,TXN10898,31-07-2025,02:37:08,1783.74,Ola,Transport Services,Pune,UPI,Mobile,0
+STU003,TXN10899,24-09-2025,14:44:17,2808.04,Amazon,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10900,18-09-2025,10:44:05,1378.03,IRCTC,General Retail,Pune,UPI,Mobile,0
+STU003,TXN10901,04-05-2025,00:34:02,262.72,Myntra,Fashion & Apparel,Mumbai,Credit Card,Mobile,0
+STU003,TXN10902,05-07-2025,09:46:00,1520.34,Paytm,Digital Payments,Nagpur,UPI,Mobile,0
+STU003,TXN10903,03-04-2025,08:01:02,1761.29,Dominos,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10904,13-04-2025,03:19:31,361.28,BigBasket,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10905,03-01-2025,22:33:36,1365.71,Uber,General Retail,Mumbai,UPI,Mobile,0
+STU003,TXN10906,22-06-2025,15:31:39,614.02,Uber,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10907,26-04-2025,02:57:25,2496.76,BigBasket,General Retail,Mumbai,Debit Card,Desktop,1
+STU003,TXN10908,21-06-2025,06:09:02,2246.15,Swiggy,Food Delivery,Ahmedabad,UPI,Desktop,0
+STU003,TXN10909,19-12-2024,11:22:59,2849.06,Paytm,Digital Payments,Chennai,UPI,Mobile,0
+STU003,TXN10910,06-07-2025,19:57:54,672.56,Uber,General Retail,Hyderabad,UPI,Mobile,0
+STU003,TXN10911,08-03-2025,23:55:00,2870.3,BigBasket,General Retail,Ahmedabad,UPI,Mobile,0
+STU003,TXN10912,30-03-2025,05:26:17,2595.05,Zomato,Food Delivery,Mumbai,UPI,Mobile,0
+STU003,TXN10913,05-07-2025,07:39:59,334.61,Paytm,Digital Payments,Nagpur,Debit Card,Mobile,0
+STU003,TXN10914,18-08-2025,15:37:26,746.73,Zomato,Food Delivery,Nashik,Debit Card,Mobile,0
+STU003,TXN10915,30-08-2025,00:52:41,2653.61,Paytm,Digital Payments,Nagpur,UPI,Desktop,1
+STU003,TXN10916,28-01-2025,09:32:24,288.66,Ola,Transport Services,Chennai,UPI,Mobile,0
+STU003,TXN10917,19-04-2025,20:56:49,2104.41,Swiggy,Food Delivery,Nagpur,Debit Card,Mobile,0
+STU003,TXN10918,07-02-2025,01:58:19,277.88,BookMyShow,Entertainment,Indore,UPI,Mobile,0
+STU003,TXN10919,28-01-2025,16:58:39,1091.18,BigBasket,General Retail,Hyderabad,UPI,Mobile,0
+STU003,TXN10920,07-08-2025,02:53:41,338.06,IRCTC,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10921,19-02-2025,10:43:12,2683.7,IRCTC,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10922,02-11-2024,22:44:11,714.17,Flipkart,E-commerce,Indore,UPI,Mobile,0
+STU003,TXN10923,16-05-2025,21:54:47,1955.24,IRCTC,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10924,19-11-2024,23:38:05,850.9,BookMyShow,Entertainment,Chennai,Debit Card,Mobile,0
+STU003,TXN10925,09-05-2025,08:38:19,1625.72,Dominos,General Retail,Nashik,Debit Card,Mobile,0
+STU003,TXN10926,06-06-2025,17:13:54,2999.63,Amazon,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10927,27-04-2025,23:30:05,1210.28,Dominos,General Retail,Mumbai,UPI,Mobile,1
+STU003,TXN10928,06-10-2025,06:44:48,1652.39,BookMyShow,Entertainment,Nashik,UPI,Mobile,0
+STU003,TXN10929,03-08-2025,14:49:46,1847.68,BigBasket,General Retail,Nashik,UPI,Mobile,0
+STU003,TXN10930,09-07-2025,16:38:12,2675.89,IRCTC,General Retail,Delhi,UPI,Desktop,0
+STU003,TXN10931,18-11-2024,02:18:07,127.94,Flipkart,E-commerce,Nagpur,Credit Card,Mobile,0
+STU003,TXN10932,14-02-2025,12:24:08,588.51,BookMyShow,Entertainment,Delhi,UPI,Mobile,0
+STU003,TXN10933,13-05-2025,11:04:30,1669.38,Uber,General Retail,Delhi,UPI,Mobile,0
+STU003,TXN10934,30-07-2025,22:37:29,1672.15,Myntra,Fashion & Apparel,Delhi,Debit Card,Mobile,0
+STU003,TXN10935,07-08-2025,15:24:31,1191.14,BookMyShow,Entertainment,Nagpur,Debit Card,Mobile,0
+STU003,TXN10936,13-10-2024,02:42:47,987.56,Dominos,General Retail,Nagpur,UPI,Mobile,0
+STU003,TXN10937,07-03-2025,11:40:45,1834.14,BigBasket,General Retail,Bangalore,Credit Card,Mobile,0
+STU003,TXN10938,17-09-2025,03:38:47,448.33,Zomato,Food Delivery,Nagpur,UPI,Desktop,0
+STU003,TXN10939,16-07-2025,10:46:00,2668.42,IRCTC,General Retail,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10940,24-12-2024,18:24:17,610.47,Dominos,General Retail,Mumbai,Credit Card,Mobile,0
+STU003,TXN10941,09-10-2025,17:35:09,437.58,Flipkart,E-commerce,Hyderabad,Debit Card,Mobile,0
+STU003,TXN10942,12-02-2025,09:23:23,1060.09,BookMyShow,Entertainment,Chennai,UPI,Mobile,0
+STU003,TXN10943,18-04-2025,06:08:09,147.28,BigBasket,General Retail,Ahmedabad,Credit Card,Mobile,0
+STU003,TXN10944,08-05-2025,03:27:50,2170.73,Paytm,Digital Payments,Hyderabad,UPI,Mobile,0
+STU003,TXN10945,11-03-2025,01:00:41,69.97,Amazon,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10946,04-11-2024,14:12:19,1203.58,BigBasket,General Retail,Nagpur,Debit Card,Mobile,0
+STU003,TXN10947,30-11-2024,14:45:45,2298.3,BookMyShow,Entertainment,Pune,UPI,Mobile,0
+STU003,TXN10948,18-01-2025,19:36:23,2891.92,Amazon,E-commerce,Mumbai,UPI,Mobile,0
+STU003,TXN10949,12-11-2024,07:35:38,1677.89,Ola,Transport Services,Nagpur,Debit Card,Mobile,0
+STU003,TXN10950,22-02-2025,04:33:35,125.34,Zomato,Food Delivery,Mumbai,Debit Card,Mobile,0
+STU003,TXN10951,23-04-2025,18:36:29,1035.9,BigBasket,General Retail,Bangalore,Debit Card,Desktop,0
+STU003,TXN10952,13-08-2025,18:14:47,715.93,Flipkart,E-commerce,Nashik,UPI,Mobile,0
+STU003,TXN10953,05-03-2025,17:21:44,2761.84,Myntra,Fashion & Apparel,Chennai,UPI,Mobile,0
+STU003,TXN10954,20-10-2024,10:00:55,1311.3,BigBasket,General Retail,Mumbai,UPI,Mobile,0
+STU003,TXN10955,29-12-2024,15:58:08,224.86,Flipkart,E-commerce,Pune,UPI,Mobile,0
+STU003,TXN10956,14-07-2025,12:00:01,2651.85,BigBasket,General Retail,Indore,Debit Card,Mobile,0
+STU003,TXN10957,24-09-2025,02:52:09,2346.58,Uber,General Retail,Pune,Credit Card,Mobile,0
+STU003,TXN10958,26-02-2025,14:59:06,2154.52,Flipkart,E-commerce,Pune,Credit Card,Mobile,0
+STU003,TXN10959,25-05-2025,05:09:48,1964.81,Zomato,Food Delivery,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10960,08-03-2025,15:24:56,960.29,Dominos,General Retail,Hyderabad,Net Banking,Desktop,0
+STU003,TXN10961,12-01-2025,12:28:26,1702.2,Dominos,General Retail,Hyderabad,UPI,Desktop,0
+STU003,TXN10962,29-10-2024,07:01:25,875.01,Amazon,E-commerce,Bangalore,UPI,Mobile,0
+STU003,TXN10963,12-05-2025,15:43:30,314.04,Uber,General Retail,Hyderabad,Credit Card,Desktop,0
+STU003,TXN10964,10-09-2025,11:00:46,555.67,Ola,Transport Services,Delhi,Credit Card,Mobile,0
+STU003,TXN10965,05-11-2024,08:08:43,838.53,Myntra,Fashion & Apparel,Nagpur,UPI,Mobile,0
+STU003,TXN10966,27-06-2025,10:15:36,2729.59,Uber,General Retail,Mumbai,Credit Card,Desktop,1
+STU003,TXN10967,09-02-2025,23:16:05,1466.16,Paytm,Digital Payments,Chennai,Debit Card,Mobile,0
+STU003,TXN10968,18-08-2025,09:19:25,2847.13,IRCTC,General Retail,Pune,UPI,Mobile,0
+STU003,TXN10969,29-07-2025,05:47:47,87.14,BigBasket,General Retail,Hyderabad,Debit Card,Desktop,0
+STU003,TXN10970,13-11-2024,09:26:52,1540.75,BigBasket,General Retail,Bangalore,UPI,Mobile,0
+STU003,TXN10971,17-09-2025,07:43:19,1533.02,Amazon,E-commerce,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10972,06-12-2024,23:41:51,2806.76,Myntra,Fashion & Apparel,Nagpur,Credit Card,Desktop,0
+STU003,TXN10973,11-10-2024,07:27:05,2436.1,Zomato,Food Delivery,Nagpur,UPI,Mobile,0
+STU003,TXN10974,23-10-2024,17:32:46,2462.53,Swiggy,Food Delivery,Chennai,Debit Card,Mobile,0
+STU003,TXN10975,18-11-2024,11:11:21,55.36,Ola,Transport Services,Nashik,UPI,Mobile,0
+STU003,TXN10976,25-02-2025,02:14:32,1442.33,BigBasket,General Retail,Chennai,UPI,Mobile,0
+STU003,TXN10977,02-02-2025,04:36:20,153.16,Myntra,Fashion & Apparel,Ahmedabad,UPI,Mobile,0
+STU003,TXN10978,21-12-2024,20:31:46,947.76,Flipkart,E-commerce,Delhi,Net Banking,Mobile,0
+STU003,TXN10979,04-05-2025,08:07:14,2348.03,IRCTC,General Retail,Mumbai,Debit Card,Mobile,0
+STU003,TXN10980,27-09-2025,09:42:40,1524.23,Zomato,Food Delivery,Ahmedabad,Debit Card,Mobile,0
+STU003,TXN10981,12-07-2025,15:46:21,287.21,BigBasket,General Retail,Indore,Debit Card,Desktop,0
+STU003,TXN10982,03-08-2025,23:22:48,2953.9,Swiggy,Food Delivery,Nashik,UPI,Mobile,0
+STU003,TXN10983,22-05-2025,17:49:00,2813.72,Amazon,E-commerce,Nagpur,UPI,Desktop,0
+STU003,TXN10984,11-05-2025,13:32:42,2183.48,Uber,General Retail,Indore,UPI,Mobile,0
+STU003,TXN10985,14-10-2024,07:29:24,255.06,Myntra,Fashion & Apparel,Pune,UPI,Mobile,0
+STU003,TXN10986,12-06-2025,19:21:50,1532.37,Swiggy,Food Delivery,Pune,UPI,Mobile,1
+STU003,TXN10987,14-02-2025,05:43:30,614.67,Zomato,Food Delivery,Delhi,UPI,Mobile,0
+STU003,TXN10988,19-01-2025,11:31:12,1350.48,Amazon,E-commerce,Nashik,UPI,Mobile,0
+STU003,TXN10989,27-11-2024,07:45:25,1388.73,Swiggy,Food Delivery,Delhi,Net Banking,Mobile,0
+STU003,TXN10990,07-03-2025,15:48:25,2744.95,Ola,Transport Services,Chennai,UPI,Mobile,0
+STU003,TXN10991,12-01-2025,13:46:54,2302.84,BookMyShow,Entertainment,Chennai,UPI,Mobile,0
+STU003,TXN10992,12-10-2024,04:59:05,614.2,Uber,General Retail,Bangalore,Debit Card,Mobile,0
+STU003,TXN10993,29-08-2025,00:39:50,2493.29,Amazon,E-commerce,Nashik,Net Banking,Mobile,0
+STU003,TXN10994,26-11-2024,11:47:28,2748.33,Amazon,E-commerce,Indore,UPI,Desktop,0
+STU003,TXN10995,16-12-2024,06:36:31,1513.4,BigBasket,General Retail,Mumbai,Debit Card,Mobile,0
+STU003,TXN10996,09-04-2025,11:28:31,2700.29,IRCTC,General Retail,Mumbai,UPI,Mobile,0
+STU003,TXN10997,19-05-2025,20:28:42,2869.8,Dominos,General Retail,Chennai,Debit Card,Desktop,0
+STU003,TXN10998,10-11-2024,21:25:38,1318.06,Dominos,General Retail,Indore,UPI,Desktop,0
+STU003,TXN10999,13-07-2025,10:27:50,2607.38,Amazon,E-commerce,Hyderabad,UPI,Mobile,0
