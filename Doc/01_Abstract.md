@@ -56,4 +56,4 @@ For detection, algorithms like **Random Forest** and **XGBoost** classify suspic
 - **Sakshi Dadabhau Patil** SYAIML-06 (231107004)  
 - **Tanisha Chudaman Badgujar** SYAIML-26 (231107027)  
 - **Priyanshu Dipak Patil** SYAIML-62 (241207003)  
-- **Chetan Prabhakar Sonawane** SYAIML-40 (231107042)  
+- **Chetan Prabhakar Sonawane** SYAIML- 39 (231107042)  
